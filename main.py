@@ -5,7 +5,7 @@ import re
 import os
 
 # --- KONFIGURASI ---
-THREADS = 200 # Dinaikkan sedikit untuk efisiensi jumlah masif
+THREADS = 125 # Dinaikkan sedikit untuk efisiensi jumlah masif
 TIMEOUT = 5 
 TEST_URL_DETAIL = "http://httpbin.org/get?show_env=1"
 TEST_URL_QUALITY = "https://www.google.com"

@@ -1,26 +1,45 @@
 name: Proxy Auto System
+
 on:
   schedule:
-    - cron: '*/30 * * * *' # Setiap 30 menit (Direkomendasikan)
+    - cron: '0 * * * *' # Diubah ke setiap 1 jam agar lebih stabil untuk data masif
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Menambahkan timeout agar tidak memakan kuota GitHub jika skrip "hang"
+    timeout-minutes: 120 
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v4 # Update ke v4 (lebih stabil)
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Update ke v5
         with:
-          python-version: '3.9'
-      - name: Install
-        run: pip install -r requirements.txt
-      - name: Run
-        run: python main.py
-      - name: Save
+          python-version: '3.10' # Gunakan 3.10 agar eksekusi regex lebih cepat
+
+      - name: Install Dependencies
         run: |
-          git config --local user.email "bot@github.com"
-          git config --local user.name "ProxyBot"
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Proxy Engine
+        run: python main.py
+        # Menambahkan env agar output print langsung muncul (tidak ditunda)
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Save & Push Results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Ambil perubahan terbaru dulu agar tidak conflict saat push
+          git pull origin main --rebase 
+          
           git add results/
-          git commit -m "Auto Update: $(date)" || exit 0
-          git push
+          # Pesan commit menyertakan jumlah proxy (opsional tapi keren)
+          git commit -m "Auto Update: $(date '+%Y-%m-%d %H:%M')" || exit 0
+          git push origin main

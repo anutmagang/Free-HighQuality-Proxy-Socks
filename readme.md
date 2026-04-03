@@ -4,7 +4,7 @@ Sistem otomatis pengumpulan dan validasi proxy yang diperbarui setiap **30 menit
 
 ## 📌 Fitur Utama
 * **Multi-Protocol:** Mendukung HTTP, SOCKS4, dan SOCKS5.
-* **Filter Ketat:** Hanya menyimpan proxy dengan Status 200 (Aktif) dan timeout < 10 detik.
+* **Filter Ketat:** Hanya menyimpan proxy dengan Status 200 (Aktif) dan timeout < 5 detik.
 * **Geo-Location:** Proxy dikelompokkan berdasarkan negara (ID, US, SG, dll).
 * **Anonymity Level:** Mendeteksi Elite, Anonymous, dan Transparent proxy.
 

@@ -13,15 +13,21 @@ Anda bisa menggunakan link di bawah ini langsung di aplikasi/bot Anda:
 
 | Kategori | Link Raw (Ganti USERNAME & REPO) |
 |----------|----------------------------------|
-| **All Proxies** | `https://raw.githubusercontent.com/USERNAME/REPO/main/results/all.txt` |
-| **HTTP Only** | `https://raw.githubusercontent.com/USERNAME/REPO/main/results/http.txt` |
-| **SOCKS5 Only** | `https://raw.githubusercontent.com/USERNAME/REPO/main/results/socks5.txt` |
-| **Indonesia (ID)** | `https://raw.githubusercontent.com/USERNAME/REPO/main/results/countries/ID.txt` |
+| **All Proxies** | `https://raw.githubusercontent.com/anutmagang/Free-HighQuality-Proxy-Socks/main/results/all.txt` |
+| **HTTP Only** | `https://raw.githubusercontent.com/anutmagang/Free-HighQuality-Proxy-Socks/main/results/http.txt` |
+| **SOCKS5 Only** | `https://raw.githubusercontent.com/anutmagang/Free-HighQuality-Proxy-Socks/main/results/socks5.txt` |
+| **Indonesia (ID)** | `https://raw.githubusercontent.com/anutmagang/Free-HighQuality-Proxy-Socks/main/results/countries/ID.txt` |
 
 ## 🛠️ Cara Kerja
-1. **Scrape:** Mengambil data dari 9+ sumber provider publik.
+1. **Scrape:** Mengambil data dari sumber provider publik.
 2. **Check:** Validasi menggunakan Multithreading (100 threads).
-3. **Deploy:** Hasil dikirim kembali ke repositori ini secara otomatis.
+3. **Deploy:** Hasil dikirim kembali ke repositori ini secara otomatis setiap 5 menit.
 
+## 💰 Support This Project
+Jika list proxy ini membantu pekerjaan Anda, pertimbangkan untuk mendukung biaya server (kopi) melalui link di bawah ini:
+
+| Scan QR untuk Donasi | Link Alternatif |
+| :---: | :---: |
+| ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://saweria.co/username) | [Klik di Sini (Saweria)](https://saweria.co/username) |
 ---
 *Powered by GitHub Actions & Python*

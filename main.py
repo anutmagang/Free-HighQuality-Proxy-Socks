@@ -5,7 +5,7 @@ import re
 import os
 
 # --- KONFIGURASI ---
-THREADS = 125 # Dinaikkan sedikit untuk efisiensi jumlah masif
+THREADS = 150 # Dinaikkan sedikit untuk efisiensi jumlah masif
 TIMEOUT = 5 
 TEST_URL_DETAIL = "http://httpbin.org/get?show_env=1"
 TEST_URL_QUALITY = "https://www.google.com"
@@ -21,10 +21,11 @@ SOURCES = [
     "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
     "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt",
     "https://raw.githubusercontent.com/Bes-js/public-proxy-list/refs/heads/main/proxies.txt",
-    "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/https.txt",
+    "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/all_proxies.txt",
     "https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks4.txt",
     "https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks5.txt",
     "https://raw.githubusercontent.com/stormsia/proxy-list/refs/heads/main/working_proxies.txt",
+    "https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt",
     "https://raw.githubusercontent.com/databay-labs/free-proxy-list/refs/heads/master/socks5.txt",
     "https://raw.githubusercontent.com/databay-labs/free-proxy-list/refs/heads/master/http.txt",
     "https://raw.githubusercontent.com/MrMarble/proxy-list/refs/heads/main/all.txt",
@@ -34,10 +35,12 @@ SOURCES = [
     "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/refs/heads/main/proxies/socks5.txt",
     "https://raw.githubusercontent.com/iplocate/free-proxy-list/refs/heads/main/all-proxies.txt",
     "https://raw.githubusercontent.com/krokmazagaga/http-proxy-list/refs/heads/main/http.txt",
+    "https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/refs/heads/main/all_proxies.txt",
     "https://raw.githubusercontent.com/Mohammedcha/ProxRipper/refs/heads/main/full_proxies/http.txt",
     "https://raw.githubusercontent.com/Mohammedcha/ProxRipper/refs/heads/main/full_proxies/https.txt",
     "https://raw.githubusercontent.com/Mohammedcha/ProxRipper/refs/heads/main/full_proxies/socks4.txt",
     "https://raw.githubusercontent.com/Mohammedcha/ProxRipper/refs/heads/main/full_proxies/socks5.txt",
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/all/data.txt",
     "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/proxies.txt"
 ]
 

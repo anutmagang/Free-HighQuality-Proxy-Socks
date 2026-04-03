@@ -6,7 +6,7 @@ import os
 
 # --- KONFIGURASI ---
 THREADS = 100 
-TIMEOUT = 10 
+TIMEOUT = 5 
 # Gunakan HTTPBin untuk detail teknis (Anonimitas)
 TEST_URL_DETAIL = "http://httpbin.org/get?show_env=1"
 # Gunakan Google untuk cek kualitas akses nyata

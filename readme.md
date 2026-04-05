@@ -11,7 +11,7 @@ Sistem otomatis pengumpulan dan validasi proxy yang diperbarui setiap **2 Jam / 
 ## 🔗 Endpoint List (Raw)
 Anda bisa menggunakan link di bawah ini langsung di aplikasi/bot Anda:
 
-| Kategori | Link Raw (Ganti USERNAME & REPO) |
+| Kategori | Link Raw                         |
 |----------|----------------------------------|
 | **All Proxies** | `https://raw.githubusercontent.com/anutmagang/Free-HighQuality-Proxy-Socks/main/results/all.txt` |
 | **HTTP Only** | `https://raw.githubusercontent.com/anutmagang/Free-HighQuality-Proxy-Socks/main/results/http.txt` |

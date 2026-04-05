@@ -1,0 +1,38 @@
+name: Proxy Auto System (Main Scraper)
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Jalan otomatis setiap 2 jam
+  workflow_dispatch:      # Tombol manual di tab Actions
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Scraper Utama
+        run: python main.py
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Commit & Push Results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results/
+          git commit -m "Scraper Update: $(date '+%Y-%m-%d %H:%M')" || exit 0
+          git pull origin main --rebase
+          git push origin main

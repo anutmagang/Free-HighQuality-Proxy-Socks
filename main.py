@@ -12,6 +12,7 @@ TIMEOUT = 3
 TEST_URL_DETAIL = "http://httpbin.org/get?show_env=1"
 TEST_URL_QUALITY = "https://www.google.com"
 
+# DAFTAR SUMBER UTUH (31 SUMBER TANPA DIPOTONG)
 SOURCES = [
     "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http",
     "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4",
@@ -50,12 +51,12 @@ results = {"all": [], "http": [], "socks4": [], "socks5": []}
 countries = {}
 q = queue.Queue()
 
-# Tambahan variabel untuk memantau progress
+# Variabel Monitoring Progress
 checked_count = 0
 total_to_check = 0
 print_lock = threading.Lock()
 
-# LIST USER-AGENTS MAKSIMAL
+# LIST USER-AGENTS MAKSIMAL (Anti-Fingerprinting)
 UA_LIST = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
@@ -71,32 +72,34 @@ def get_anon(res_json, my_ip):
 
 def worker(my_ip):
     global checked_count
-    # Gunakan Session untuk efisiensi koneksi per thread
+    # Gunakan satu session per thread untuk efisiensi koneksi (Keep-Alive)
     session = requests.Session()
     while not q.empty():
         proxy = q.get()
-        success_found = False
         for proto in ['http', 'socks4', 'socks5']:
             try:
                 px = {"http": f"{proto}://{proxy}", "https": f"{proto}://{proxy}"}
-                # Random UA untuk pengecekan detail
                 headers = {"User-Agent": random.choice(UA_LIST)}
                 
+                # Tahap 1: Validasi Anonimitas & Header
                 r = session.get(TEST_URL_DETAIL, proxies=px, timeout=TIMEOUT, headers=headers)
                 if r.status_code == 200:
                     data_json = r.json()
+                    
+                    # Tahap 2: Validasi Kualitas Nyata (Tembus Google)
                     g = session.get(TEST_URL_QUALITY, proxies=px, timeout=5, headers=headers)
                     if g.status_code == 200:
                         ip_only = proxy.split(':')[0]
                         try:
-                            # Cek negara dengan session
-                            c_data = session.get(f"http://ip-api.com/json/{ip_only}", timeout=5).json()
+                            # Cek Lokasi Negara dengan headers lengkap
+                            c_data = session.get(f"http://ip-api.com/json/{ip_only}?fields=countryCode", timeout=5, headers=headers).json()
                             cc = c_data.get('countryCode', 'UN')
                         except: cc = "UN"
                         
                         anon = get_anon(data_json, my_ip)
                         full_proxy = f"{proto}://{proxy}"
                         
+                        # Simpan ke memori hasil
                         results["all"].append(f"{proxy} | {proto.upper()} | {cc} | {anon}")
                         results[proto].append(proxy)
                         
@@ -105,7 +108,6 @@ def worker(my_ip):
                         
                         with print_lock:
                             print(f"[SUCCESS] {proto.upper()} - {proxy} ({cc})")
-                        success_found = True
                         break
             except: continue
         
@@ -113,16 +115,14 @@ def worker(my_ip):
             checked_count += 1
             if checked_count % 150 == 0: 
                 print(f"--- Progress: {checked_count}/{total_to_check} Checked ---")
-        
         q.task_done()
 
 def main():
     global total_to_check
+    # Siapkan folder output
     if not os.path.exists('results/countries'): os.makedirs('results/countries', exist_ok=True)
     
-    # Session untuk Scraping dengan Header Maksimal
     scraper = requests.Session()
-    
     try: 
         my_ip = scraper.get("https://api.ipify.org", timeout=10).text
     except: 
@@ -132,14 +132,12 @@ def main():
     unique_proxies_set = set()
     
     for s in SOURCES:
-        # Maksimal 3 kali percobaan per sumber dengan jeda adaptif
+        # Percobaan ulang (retry) 3 kali per sumber jika gagal
         for attempt in range(3):
             try:
                 current_headers = {
                     "User-Agent": random.choice(UA_LIST),
                     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                    "Accept-Language": "en-US,en;q=0.5",
-                    "Connection": "keep-alive",
                     "Upgrade-Insecure-Requests": "1"
                 }
                 
@@ -152,18 +150,17 @@ def main():
                         unique_proxies_set.update(found)
                         added = len(unique_proxies_set) - before
                         print(f"Sumber: {s[:35]}... (+{added} unik)")
-                        # Kasih jeda random antar sumber agar tidak dianggap bot beruntun
+                        # Jeda adaptif agar sumber tidak memblokir IP kita
                         time.sleep(random.uniform(1.5, 3.0))
                         break
                 elif res.status_code == 429:
-                    # Jika kena Rate Limit, tidur lebih lama (backoff)
+                    # Backoff otomatis jika terkena rate limit
                     wait_time = (attempt + 1) * 5
                     print(f"! Rate Limit 429 di {s[:35]}... Tidur {wait_time}s")
                     time.sleep(wait_time)
                 else:
                     time.sleep(2)
-                    
-            except Exception:
+            except:
                 time.sleep(2)
 
     total_to_check = len(unique_proxies_set)
@@ -171,16 +168,18 @@ def main():
     print(f"Memulai Validasi Ganda dengan {THREADS} Threads...\n")
 
     for p in unique_proxies_set: q.put(p)
+    # Jalankan worker threads
     for _ in range(THREADS):
         threading.Thread(target=worker, args=(my_ip,), daemon=True).start()
     q.join()
 
-    # Simpan hasil
+    # Ekspor Final ke file .txt
     for k, v in results.items():
         with open(f"results/{k}.txt", "w") as f: f.write("\n".join(v))
     for cc, v in countries.items():
         with open(f"results/countries/{cc}.txt", "w") as f: f.write("\n".join(v))
-    print("--- SELESAI ---")
+    
+    print("--- SCRAPER SELESAI. SIAP UNTUK HUNTING ---")
 
 if __name__ == "__main__":
     main()

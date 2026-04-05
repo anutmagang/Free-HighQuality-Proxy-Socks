@@ -21,6 +21,9 @@ q_scan = queue.Queue()
 print_lock = threading.Lock()
 deep_scanned_subnets = set() # Biar gak looping selamanya di subnet yang sama
 
+# Variabel Baru untuk Tracking (Biar gak stuck)
+checked_hunted = 0
+
 UA_LIST = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
@@ -35,6 +38,7 @@ def get_anon(res_json, my_ip):
     return "Elite" if not res_json.get('headers', {}).get('Via') else "Anonymous"
 
 def hunter_worker(my_ip):
+    global checked_hunted
     session = requests.Session()
     while not q_scan.empty():
         proxy = q_scan.get()
@@ -73,14 +77,12 @@ def hunter_worker(my_ip):
                         hunted_results.append(result_entry)
 
                         # --- LOGIKA INSTINCT DEEP SCAN (RE-ENGAGE) ---
-                        # Jika nemu status Elite/Anonymous, hajar ulang seluruh subnet
                         subnet = ".".join(ip_only.split('.')[:3])
                         if anon != "Transparent" and subnet not in deep_scanned_subnets:
                             with print_lock:
                                 print(f"[*] ALERT: Nemu {anon} di {isp_name}! Melakukan Deep Scan Masif Subnet {subnet}...")
                             
                             deep_scanned_subnets.add(subnet)
-                            # Masukkan kembali 254 IP x SEMUA PORT ke antrean
                             for d in range(1, 255):
                                 for port in PORTS:
                                     q_scan.put(f"{subnet}.{d}:{port}")
@@ -89,6 +91,13 @@ def hunter_worker(my_ip):
                         break
             except:
                 continue
+        
+        # --- PROGRESS INDICATOR (BIAR GAK BERASA STUCK) ---
+        with print_lock:
+            checked_hunted += 1
+            if checked_hunted % 500 == 0:
+                print(f"--- Hunter Progress: {checked_hunted} Checked | Sisa Antrean: {q_scan.qsize()} ---")
+        
         q_scan.task_done()
 
 def main():
@@ -104,9 +113,8 @@ def main():
         print("Data all.txt tidak ditemukan!")
         return
 
-    print("--- MEMULAI TOTAL WAR + INSTINCT OVERDRIVE ---")
+    print("--- MEMULAI TOTAL WAR + INSTINCT OVERDRIVE (PROGRESS UPDATED) ---")
     
-    # 1. ANALISIS: Ambil SEMUA subnet dari main.py (No Limit)
     active_subnets = set()
     with open('results/all.txt', 'r') as f:
         for line in f:
@@ -117,22 +125,19 @@ def main():
 
     print(f"Ditemukan {len(active_subnets)} Subnet Potensial. Hajar Total!")
 
-    # 2. PENGISIAN ANTREAN: Brutal Mode (Langsung SEMUA Port dari awal)
     for subnet in active_subnets:
         for d in range(1, 255):
             target_ip = f"{subnet}.{d}"
-            for port in PORTS: # Gak ada pengurangan port, langsung 8 port per IP
+            for port in PORTS: 
                 q_scan.put(f"{target_ip}:{port}")
 
     print(f"Total target serangan: {q_scan.qsize()} kombinasi unik.")
 
-    # 3. Eksekusi Threads
     for _ in range(THREADS_SCAN):
         threading.Thread(target=hunter_worker, args=(my_ip,), daemon=True).start()
     
     q_scan.join()
 
-    # 4. SMART SAVE (Merge & Filter Unik)
     if hunted_results:
         file_path = f"{output_dir}/hunted_elite.txt"
         old_data = []

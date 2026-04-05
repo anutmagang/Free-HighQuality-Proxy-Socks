@@ -2,19 +2,19 @@ name: Hunted Proxy System (Elite Scanner)
 
 on:
   workflow_run:
-    workflows: ["Proxy Auto System (Main Scraper)"] # Nama harus sama dengan workflow di atas
+    workflows: ["Proxy Auto System (Main Scraper)"] # Pastikan nama ini SAMA PERSIS dengan 'name' di main_scraper.yml
     types:
       - completed
-  workflow_dispatch: # Bisa dijalankan manual jika ingin berburu kapan saja
+  workflow_dispatch: # Memungkinkan kamu klik "Run workflow" secara manual
 
-  env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Menghilangkan warning Node.js 20
 
 jobs:
   hunt:
     runs-on: ubuntu-latest
-    # Hanya jalan jika workflow Scraper Utama BERHASIL (success)
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    # Syarat: Hanya jalan jika workflow Scraper Utama statusnya BERHASIL
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     permissions:
       contents: write
 
@@ -39,7 +39,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          # Menambahkan folder hunted secara spesifik
           git add results/hunted/
+          # Commit jika ada perubahan, jika tidak ada maka lanjut (exit 0)
           git commit -m "Hunted Elite Update: $(date '+%Y-%m-%d %H:%M')" || exit 0
+          # Rebase untuk menghindari konflik saat push
           git pull origin main --rebase
           git push origin main

@@ -1,1271 +1,1272 @@
-176.88.166.222:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-103.76.109.2:8080 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
-103.171.255.114:8080 | HTTP | ID | Transparent | ZKI
-103.193.145.32:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-194.87.85.207:1080 | HTTP | NL | Elite | xorek.cloud International..
-195.62.50.35:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-160.238.65.5:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-177.135.190.101:8080 | HTTP | BR | Transparent | TELEFÔNICA BRASIL S.A
-188.132.222.154:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-95.181.83.3:3128 | HTTP | RU | Transparent | Goodline.info
-213.220.62.62:3128 | HTTP | NL | Transparent | YSZ Trading Co. Limited
-154.18.255.131:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
-131.222.247.94:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-121.135.144.234:8080 | HTTP | KR | Elite | Korea Telecom
-103.99.136.22:8080 | HTTP | ID | Transparent | PT Jelajah Kreasi Informa..
-157.15.41.198:8080 | HTTP | ID | Transparent | TRISARI
-36.92.51.132:8080 | HTTP | ID | Transparent | PT. Telekomunikasi Indone..
-185.225.40.70:8080 | HTTP | SY | Transparent | sy-samaweb
-176.117.104.175:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.247.23.117:8080 | HTTP | ID | Transparent | PT wifian Solution
-94.183.189.12:1080 | HTTP | FI | Elite | CGI GLOBAL LIMITED
-139.28.49.207:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-89.43.134.44:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-159.223.225.118:8888 | HTTP | NL | Elite | DigitalOcean, LLC
-154.64.232.149:7890 | HTTP | US | Elite | NetLab Global
-213.32.85.26:3128 | HTTP | FR | Transparent | OVH SAS
-163.223.116.209:8080 | HTTP | ID | Transparent | PT Signall Network Nusant..
-109.127.82.86:8080 | HTTP | IQ | Transparent | Allay Nawroz Telecom Comp..
-124.121.2.230:8080 | HTTP | TH | Transparent | TRUEBB
-103.199.117.110:8080 | HTTP | ID | Transparent | PT Hepra Teknologi Indone..
-103.127.111.17:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-117.54.238.66:8080 | HTTP | ID | Transparent | PT IndoInternet
-103.81.194.125:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
-174.114.24.95:3128 | HTTP | CA | Elite | Rogers Communications Can..
-103.161.153.177:1080 | HTTP | BD | Transparent | Click Earth Online
-168.205.255.238:80 | HTTP | BR | Anonymous | Gente Telecom do Brasil E..
-103.51.205.78:8080 | HTTP | ID | Transparent | Lintas Data Prima, PT
-139.28.49.90:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-173.212.245.136:8888 | HTTP | FR | Elite | Contabo GmbH
-176.88.166.163:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-103.158.62.137:8080 | HTTP | BD | Transparent | SEARCH IT
-203.150.128.61:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-65.109.213.99:1080 | HTTP | FI | Elite | Hetzner Online GmbH
-160.238.65.9:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-103.193.144.118:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-40.192.4.68:3128 | HTTP | IN | Transparent | Amazon.com, Inc.
-103.184.54.9:8080 | HTTP | ID | Transparent | PT Proxi Jaringan Nusanta..
-157.20.239.23:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
-91.107.124.215:3128 | HTTP | RU | Elite | JSC IOT
-103.203.234.46:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
-103.127.111.85:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-43.205.113.210:8080 | HTTP | IN | Elite | Amazon.com, Inc.
-103.157.117.116:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
-62.76.142.252:1080 | HTTP | RU | Elite | hosting-russia.ru
-223.206.188.240:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
-103.147.118.67:8080 | HTTP | ID | Anonymous | PT.Bestcamp Prima Data
-176.88.166.176:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-139.162.153.201:3128 | HTTP | DE | Elite | Akamai Technologies, Inc.
-161.132.45.72:8080 | HTTP | PE | Transparent | Red Cientifica Peruana
-103.120.76.45:8080 | HTTP | ID | Transparent | PT Haci Telekomunikasi In..
-103.156.248.164:8080 | HTTP | ID | Transparent | Trans Media Telekomunikas..
-203.150.128.133:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-164.138.205.206:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-193.43.159.167:8080 | HTTP | SY | Transparent | Syrian Telecom
-103.152.238.77:1080 | HTTP | ID | Transparent | APRIN
-103.190.170.160:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
-103.127.111.1:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-40.192.121.249:80 | HTTP | IN | Elite | Amazon.com, Inc.
-103.244.107.1:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-194.124.36.132:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-110.76.147.29:1080 | HTTP | ID | Transparent | PT Pika Media Komunika
-103.158.62.136:8080 | HTTP | BD | Transparent | SEARCH IT
-103.116.82.148:8080 | HTTP | ID | Transparent | PT SSR Digital Informatik..
-1.225.116.115:1080 | HTTP | KR | Elite | SK Broadband Co Ltd
-36.93.214.253:8080 | HTTP | ID | Transparent | Telekomunikasi Indonesia
-182.52.27.212:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-103.234.35.199:3128 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
-103.242.104.92:8888 | HTTP | ID | Anonymous | PT Lintas Jaringan Nusant..
-18.170.25.193:80 | HTTP | GB | Elite | Amazon Technologies Inc.
-212.108.115.55:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-168.138.179.48:3128 | HTTP | SG | Elite | Oracle Corporation
-103.118.175.85:8080 | HTTP | ID | Anonymous | PT Perwira Media Solusi
-157.66.138.101:1080 | HTTP | ID | Transparent | PT Neo Fiber Teknologi
-201.144.20.238:3128 | HTTP | MX | Transparent | UNINET
-182.53.21.1:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-15.152.75.215:80 | HTTP | JP | Elite | Amazon Technologies Inc.
-160.19.19.9:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-103.126.86.192:80 | HTTP | ID | Transparent | PT. Rasi Bintang Perkasa
-164.138.205.204:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-160.238.65.6:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-103.162.221.227:8080 | HTTP | ID | Transparent | PT Trisari Data Indonusa
-103.244.107.253:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-131.222.210.80:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-157.66.16.52:8080 | HTTP | ID | Transparent | PT Mitra Mandiri Network
-131.222.252.14:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.203.234.147:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
-103.51.205.94:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
-103.160.40.10:8080 | HTTP | ID | Transparent | PT Wistel Teknologi Solus..
-103.244.107.97:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-89.43.133.231:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.157.200.126:3128 | HTTP | PK | Transparent | Logitech Cable (Private) ..
-203.2.151.14:8080 | HTTP | ID | Transparent | PT BARAYA BARENG SADULUR
-102.0.22.238:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
-103.97.140.17:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-103.156.16.189:8080 | HTTP | ID | Transparent | RSTNET
-103.120.76.54:8080 | HTTP | ID | Transparent | PT Haci Telekomunikasi In..
-61.73.158.215:1080 | HTTP | KR | Elite | Korea Telecom
-181.78.195.42:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-154.58.138.227:8080 | HTTP | ID | Transparent | MEGADATA-ISP
-181.78.195.34:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-101.255.211.109:8080 | HTTP | ID | Elite | PT Remala Abadi
-103.71.22.182:3128 | HTTP | FI | Elite | I-servers LTD
-200.3.197.81:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
-178.214.80.44:8080 | HTTP | PS | Elite | Gemzo information technol..
-103.171.255.60:8080 | HTTP | ID | Transparent | ZKI
-147.45.133.133:3128 | HTTP | NL | Transparent | Timeweb, LLP
-43.167.237.94:3128 | HTTP | JP | Transparent | Shenzhen Tencent Computer..
-167.234.224.70:3128 | HTTP | BR | Elite | Oracle Corporation
-103.144.18.70:3128 | HTTP | ID | Transparent | PT Gasatek Bintang Nusant..
-217.77.102.18:3128 | HTTP | RU | Elite | "Region Svyaz Konsalt" LL..
-113.11.2.213:8080 | HTTP | BD | Transparent | BDCOM Online Limited
-103.46.8.102:8080 | HTTP | ID | Transparent | PT JARINGANKU SARANA NUSA..
-103.244.107.121:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-102.68.76.247:8080 | HTTP | KE | Transparent | Unwired Communications Lt..
-103.132.52.20:8080 | HTTP | ID | Anonymous | PT Adeaksa Indo Jayatama
-112.78.155.181:3128 | HTTP | ID | Transparent | BIZNET
-15.204.233.75:3128 | HTTP | US | Transparent | OVH SAS
-203.150.128.20:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-103.109.173.170:80 | HTTP | ID | Transparent | PT Cyberindo Aditama
-160.19.18.42:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-177.93.132.244:3128 | HTTP | BR | Anonymous | MAGAZINE LUIZA S/A
-163.223.78.163:8080 | HTTP | ID | Elite | PT Big Network Indonesia
-18.188.53.175:80 | HTTP | US | Elite | Amazon.com, Inc.
-66.80.0.214:1080 | HTTP | US | Elite | Bunny Communications
-203.175.102.210:8080 | HTTP | ID | Transparent | PT. Mitra Kita Brilian
-103.140.25.213:8080 | HTTP | BD | Transparent | Ali Akber
-84.47.150.125:1080 | HTTP | RU | Elite | LLC "Nauka-Svyaz"
-128.0.7.12:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-185.41.152.110:3128 | HTTP | FR | Elite | global
-160.187.174.114:8080 | HTTP | ID | Transparent | PT Netindo Persada Nusant..
-213.220.62.63:3128 | HTTP | NL | Transparent | YSZ Trading Co. Limited
-147.161.246.39:80 | HTTP | CH | Transparent | Zscaler Switzerland GmbH
-89.43.134.93:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-13.212.110.200:3128 | HTTP | SG | Elite | Amazon Technologies Inc.
-188.132.249.240:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-154.18.255.137:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
-223.16.170.103:3128 | HTTP | HK | Transparent | HGC Global Communications..
-103.193.145.45:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.199.117.111:8080 | HTTP | ID | Transparent | PT Hepra Teknologi Indone..
-175.111.96.154:3128 | HTTP | ID | Anonymous | PT Wifipedia Sinergi Tele..
-110.39.183.34:8080 | HTTP | PK | Transparent | Wateen Telecom Limited
-101.255.32.41:8080 | HTTP | ID | Transparent | PT Remala Abadi
-188.132.249.220:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-172.236.140.167:3128 | HTTP | SG | Transparent | Akamai Technologies, Inc.
-103.71.162.41:8080 | HTTP | ID | Transparent | PT. Menaksopal Link Nusan..
-103.158.62.139:8080 | HTTP | BD | Transparent | SEARCH IT
-103.127.111.77:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-20.127.128.70:8080 | HTTP | US | Elite | Microsoft Corporation
-103.71.22.8:3128 | HTTP | FI | Transparent | I-servers LTD
-195.62.50.22:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.122.1.130:8080 | HTTP | ID | Transparent | PT. Java Digital Nusantar..
-182.53.202.208:8080 | HTTP | TH | Anonymous | TOT Public Company Limite..
-160.250.134.143:3128 | HTTP | VN | Transparent | BSTECHCLOUD
-103.126.86.99:8080 | HTTP | ID | Transparent | PT. Rasi Bintang Perkasa
-103.244.107.41:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-103.85.53.64:8080 | HTTP | ID | Transparent | PT Binerkahan Digital Tel..
-84.51.0.55:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-104.248.211.46:7890 | HTTP | US | Elite | DigitalOcean, LLC
-109.224.242.54:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-172.208.25.199:3128 | HTTP | US | Transparent | Microsoft Corporation
-15.228.88.39:8080 | HTTP | BR | Elite | Amazon.com, Inc.
-77.91.77.220:3128 | HTTP | GE | Elite | Cloud Hosting Solutions, ..
-103.97.140.246:1080 | HTTP | ID | Elite | PT Jembatan Data Pangrang..
-95.214.123.147:8080 | HTTP | HU | Transparent | Deltakon Kft.
-103.68.214.164:8080 | HTTP | ID | Transparent | PT Media Grasi Internet
-193.43.140.253:8080 | HTTP | SY | Transparent | Syrian Telecom
-124.121.2.162:8080 | HTTP | TH | Transparent | TRUEBB
-112.78.181.91:3128 | HTTP | ID | Transparent | BIZNET
-14.102.70.89:8080 | HTTP | IN | Transparent | World Phone Internet Serv..
-103.160.40.254:8080 | HTTP | ID | Anonymous | PT Wistel Teknologi Solus..
-103.203.232.69:1080 | HTTP | ID | Transparent | PT Inti Data Guna
-103.81.194.165:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
-157.15.41.138:8080 | HTTP | ID | Transparent | TRISARI
-103.155.199.67:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.248.9.81:8080 | HTTP | ID | Transparent | PT Flashnet Inovasi Tekno..
-103.61.16.92:8080 | HTTP | ID | Transparent | TWINSDATAPRATAMA
-58.69.185.88:8080 | HTTP | PH | Transparent | Philippine Long Distance ..
-103.188.169.95:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.244.107.105:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-89.43.132.218:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-70.61.188.34:3128 | HTTP | US | Transparent | Spectrum
-38.156.95.73:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
-203.29.26.63:8080 | HTTP | ID | Transparent | PT. Java Digital Nusantar..
-62.60.237.68:8080 | HTTP | FI | Elite | Aeza International LTD
-125.25.230.134:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-203.150.113.239:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-16.51.5.167:3128 | HTTP | AU | Elite | Amazon.com
-194.104.9.38:3128 | HTTP | NL | Elite | Baykov Ilya Sergeevich
-91.233.223.147:3128 | HTTP | RU | Transparent | Radist LTD
-103.39.51.178:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
-139.28.49.103:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-195.62.50.6:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.97.140.142:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-103.46.186.140:8080 | HTTP | ID | Transparent | PT Air Lintas Komunikasi
-103.39.49.98:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
-89.43.133.200:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-124.121.2.223:8080 | HTTP | TH | Transparent | TRUEBB
-188.132.249.236:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.151.227.130:8080 | HTTP | ID | Transparent | URBANACCESS
-201.139.115.38:8080 | HTTP | MX | Elite | Transtelco Inc
-48.218.128.191:3128 | HTTP | JP | Transparent | Microsoft Corporation
-109.195.74.237:3128 | HTTP | RU | Elite | CJSC "ER-Telecom Holding"..
-78.13.50.125:3128 | HTTP | MX | Elite | Amazon.com
-103.180.126.114:8080 | HTTP | ID | Anonymous | PT Alam Media Data
-161.248.206.196:8080 | HTTP | ID | Transparent | PT Iktiar Doa Tawakal
-103.94.251.93:8080 | HTTP | ID | Transparent | PT Centronet Data Indones..
-105.159.148.165:5678 | HTTP | MA | Elite | Office National des Poste..
-195.62.50.59:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-212.108.115.140:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.162.54.171:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
-172.236.145.31:7890 | HTTP | SG | Elite | Akamai Technologies, Inc.
-64.188.77.221:3128 | HTTP | NL | Elite | OC NETWORKS LIMITED
-193.43.140.230:8080 | HTTP | SY | Transparent | Syrian Telecom
-176.117.104.178:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-210.223.44.230:3128 | HTTP | KR | Anonymous | Korea Telecom
-89.43.134.88:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-58.147.186.131:8080 | HTTP | ID | Transparent | PT. Transhybrid Communica..
-103.106.195.117:8080 | HTTP | IN | Elite | Elyzium Consulting
-171.43.65.238:7890 | HTTP | CN | Elite | Chinanet
-15.204.151.141:3128 | HTTP | US | Transparent | OVH SAS
-195.62.50.212:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.162.63.71:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
-181.78.195.36:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-136.228.128.248:8080 | HTTP | KH | Transparent | S.I Group
-184.82.173.146:8080 | HTTP | TH | Transparent | AIS-Fibre
-103.172.121.51:8080 | HTTP | ID | Transparent | PT Digital Akses Nusantar..
-149.86.140.212:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
-102.23.234.118:8080 | HTTP | ZA | Transparent | JENNY INTERNET (PTY) LTD
-103.135.102.161:8080 | HTTP | HK | Elite | ASSN-AKRN
-89.43.132.19:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-157.10.90.47:8080 | HTTP | ID | Transparent | PNGWIFI
-168.110.52.228:3128 | HTTP | JP | Elite | Oracle Corporation
-217.160.162.25:8888 | HTTP | DE | Transparent | IONOS SE
-103.144.146.42:8080 | HTTP | ID | Transparent | Lexxa Data
-103.125.119.50:8080 | HTTP | ID | Transparent | PT Baraya Telematika Nusa..
-103.46.186.137:8080 | HTTP | ID | Transparent | PT Air Lintas Komunikasi
-131.222.250.230:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-54.67.110.244:80 | HTTP | US | Elite | Amazon.com, Inc.
-212.108.115.106:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-160.19.18.219:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-160.191.180.245:3128 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-160.19.18.99:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-157.15.67.49:8080 | HTTP | ID | Transparent | TRITAMA
-159.203.220.84:3128 | HTTP | US | Transparent | DigitalOcean, LLC
-113.11.179.64:8080 | HTTP | ID | Transparent | Biznet Networks
-195.62.50.30:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-213.220.62.62:3128 | HTTP | NL | Anonymous | YSZ Trading Co. Limited
-5.196.101.18:3128 | HTTP | FR | Transparent | OVH SAS
-200.159.143.38:8080 | HTTP | BR | Transparent | Winfnet Telecom Wireless ..
-149.86.140.245:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
-181.78.194.241:3128 | HTTP | EC | Transparent | Ufinet Panama S.A.
-62.113.119.14:8080 | HTTP | RU | Elite | Hosting technology LTD
-160.187.174.249:80 | HTTP | ID | Anonymous | PT Netindo Persada Nusant..
-146.196.108.206:8080 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
-1.20.169.10:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-115.178.53.117:8080 | HTTP | ID | Transparent | NOC SIMAYA
-96.44.137.177:8888 | HTTP | CA | Transparent | HostPapa
-45.88.0.111:3128 | HTTP | PL | Anonymous | Layer IT services
-130.61.30.221:8080 | HTTP | DE | Transparent | Oracle Corporation
-41.128.72.147:8080 | HTTP | EG | Transparent | LINKdotNET AS number
-103.87.202.196:8080 | HTTP | ID | Transparent | PT MULTI GUNA SINERGI
-203.150.128.10:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-159.65.127.139:8888 | HTTP | DE | Anonymous | DigitalOcean, LLC
-185.227.137.125:8080 | HTTP | TR | Transparent | Turunc Smart Bilgisayar T..
-223.16.170.103:80 | HTTP | HK | Transparent | HGC Global Communications..
-148.135.22.89:1080 | HTTP | US | Elite | Multacom Corporation
-194.31.87.77:3128 | HTTP | TR | Transparent | SFCTEK Bilisim Yazilim ve..
-131.222.210.155:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-109.224.242.38:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-163.223.150.21:8080 | HTTP | ID | Transparent | PT Microcyber Data Indone..
-103.178.86.178:8080 | HTTP | ID | Anonymous | PT Adhi Pradana Makayasa
-119.47.93.84:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
-160.19.18.204:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-103.179.183.221:8080 | HTTP | ID | Transparent | SINARKENCANA
-41.216.186.47:8080 | HTTP | ID | Elite | FASTHOSTING
-181.119.84.134:8080 | HTTP | CO | Transparent | IFX Networks Argentina S...
-103.93.93.207:8080 | HTTP | ID | Anonymous | MYRISE
-15.157.63.22:3128 | HTTP | CA | Elite | Amazon.com, Inc.
-113.88.58.86:7890 | HTTP | CN | Elite | Chinanet
-77.110.113.3:3128 | HTTP | RU | Transparent | Global Internet Solutions..
-103.172.23.162:1080 | HTTP | ID | Transparent | PT Tujuhlangit Lintas Nus..
-149.86.144.211:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
-103.175.245.204:8080 | HTTP | BD | Transparent | Orange Communication
-209.14.68.68:8888 | HTTP | BR | Transparent | Qnax Ltda
-85.239.59.252:7890 | HTTP | RU | Elite | JSC "TIMEWEB"
-103.234.35.166:8080 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
-103.244.107.3:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-124.121.2.239:8080 | HTTP | TH | Transparent | TRUEBB
-43.208.134.144:3128 | HTTP | TH | Elite | Amazon.com, Inc.
-185.255.45.212:3128 | HTTP | IQ | Transparent | Valin Company for General..
-103.66.47.182:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
-160.238.65.7:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-103.39.51.207:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
-157.15.66.120:8080 | HTTP | ID | Transparent | TRITAMA
-103.244.107.237:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-120.92.108.97:7890 | HTTP | CN | Elite | Beijing Kingsoft Cloud In..
-103.157.117.116:8080 | HTTP | UN | Anonymous | Lookup Error
-103.179.180.134:8080 | HTTP | ID | Transparent | PT Karya Aneka Persada
-113.192.48.37:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-131.222.251.45:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-124.121.2.186:8080 | HTTP | TH | Transparent | TRUEBB
-109.237.97.208:1080 | HTTP | DE | Elite | International Hosting Com..
-103.125.117.54:8080 | HTTP | ID | Transparent | PT Baraya Telematika Nusa..
-15.204.151.142:3128 | HTTP | US | Transparent | OVH SAS
-193.43.140.129:8080 | HTTP | SY | Transparent | Syrian Telecom
-89.43.134.23:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-160.238.65.9:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-46.101.95.183:8888 | HTTP | GB | Elite | DigitalOcean, LLC
-195.200.31.45:3128 | HTTP | NL | Elite | MISTRAL
-47.238.220.4:8888 | HTTP | HK | Transparent | Alibaba Cloud LLC
-188.246.224.49:7890 | HTTP | RU | Elite | JSC Selectel
-160.19.19.7:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-103.148.184.82:8080 | HTTP | TL | Transparent | METROLINK, LDA.
-41.216.186.73:8080 | HTTP | ID | Anonymous | FASTHOSTING
-103.108.63.183:8080 | HTTP | BD | Transparent | Mostafizur Rahman Patwary
-103.179.182.51:8080 | HTTP | ID | Transparent | PT Cahaya Solusindo Inter..
-38.180.192.119:3128 | HTTP | US | Elite | HIVELOCITY, Inc.
-116.254.118.180:80 | HTTP | ID | Elite | PT Media Sarana Data
-131.222.251.246:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-176.117.104.186:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-160.187.174.227:8080 | HTTP | ID | Transparent | PT Netindo Persada Nusant..
-15.161.59.54:80 | HTTP | IT | Elite | Amazon.com, Inc.
-139.28.49.235:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-209.126.84.189:3128 | HTTP | US | Elite | Contabo Inc.
-101.255.107.129:8080 | HTTP | ID | Transparent | PT Remala Abadi
-203.150.128.5:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-105.159.148.43:5678 | HTTP | MA | Elite | Office National des Poste..
-193.43.159.165:8080 | HTTP | SY | Transparent | Syrian Telecom
-185.241.5.57:3128 | HTTP | IL | Transparent | O.M.C. COMPUTERS & COMMUN..
-103.163.103.183:8080 | HTTP | ID | Transparent | PT Mamura Inter Media
-140.238.254.5:8080 | HTTP | IN | Transparent | Oracle Corporation
-103.153.149.139:8080 | HTTP | ID | Anonymous | JARINGANKU
-157.20.239.25:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
-103.66.47.57:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
-124.121.2.178:8080 | HTTP | TH | Transparent | TRUEBB
-182.253.143.10:8080 | HTTP | ID | Transparent | Biznet Networks
-154.202.119.234:3128 | HTTP | US | Transparent | Fastmos Co Limited
-154.19.39.133:8080 | HTTP | ID | Transparent | PT Lintas Network Solusi
-103.97.140.96:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-103.39.51.148:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
-149.86.140.197:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
-89.43.134.47:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.156.17.232:8080 | HTTP | ID | Transparent | RSTNET
-103.122.64.222:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
-92.113.149.172:8080 | HTTP | DK | Elite | Webdock.io ApS
-202.21.115.178:8080 | HTTP | MN | Transparent | Mobinet LLC
-103.193.145.155:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-109.224.242.21:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-91.144.30.93:8080 | HTTP | SY | Transparent | STE Public Data Network B..
-159.89.191.221:3128 | HTTP | US | Elite | DigitalOcean, LLC
-103.19.78.205:1080 | HTTP | ID | Elite | PT Persada Data Multimedi..
-103.157.117.238:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
-157.10.184.115:8080 | HTTP | ID | Transparent | PT Internet Tjepat Indone..
-103.189.250.47:8080 | HTTP | ID | Elite | PT Pandawa Lima Java Netw..
-185.200.38.115:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-188.132.249.198:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.171.255.59:8080 | HTTP | ID | Transparent | ZKI
-131.222.247.253:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-196.204.83.229:8080 | HTTP | EG | Anonymous | Vodafone Data
-163.223.172.29:1080 | HTTP | ID | Transparent | PT FAFI UIFI NETWORK
-103.122.65.242:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
-103.76.109.203:80 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
-103.50.25.40:8080 | HTTP | ID | Transparent | PT. MERAH PUTIH TELEMATIK..
-188.166.179.50:3128 | HTTP | SG | Elite | DigitalOcean, LLC
-103.244.107.246:8080 | HTTP | ID | Anonymous | PT Sahabat Fiber Indonesi..
-176.117.104.179:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-165.99.56.135:8080 | HTTP | ID | Anonymous | PT TENGGARA MULTIMEDIA GE..
-194.147.90.23:3128 | HTTP | RU | Transparent | AZERTA.RU Hosting LLC
-176.88.166.219:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-103.122.66.80:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
-103.50.25.43:8080 | HTTP | ID | Transparent | PT. MERAH PUTIH TELEMATIK..
-203.150.128.54:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-103.39.49.98:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
-45.88.0.98:3128 | HTTP | PL | Anonymous | Layer IT services
-157.245.194.13:8888 | HTTP | SG | Transparent | DigitalOcean, LLC
-103.70.122.147:8080 | HTTP | ID | Transparent | PT Menara Digital Salama
-181.78.195.45:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-115.136.121.54:3128 | HTTP | KR | Transparent | LG POWERCOMM
-212.108.115.38:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-210.87.74.181:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-103.172.23.182:1080 | HTTP | ID | Transparent | PT Tujuhlangit Lintas Nus..
-134.209.153.66:3128 | HTTP | IN | Transparent | DigitalOcean, LLC
-182.52.27.80:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-103.39.51.207:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
-103.140.25.125:8080 | HTTP | BD | Transparent | Ali Akber
-38.180.79.182:1080 | HTTP | BR | Elite | M247 Europe SRL
-35.87.40.144:80 | HTTP | US | Elite | Amazon.com, Inc.
-103.193.145.43:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.234.35.231:1080 | HTTP | ID | Elite | PT. EXABIT GROUP NETWORK
-103.140.25.205:8080 | HTTP | BD | Transparent | Ali Akber
-152.42.201.82:3128 | HTTP | SG | Elite | DigitalOcean, LLC
-137.59.47.73:3128 | HTTP | VN | Transparent | MOBIFONECNTT
-45.116.14.87:8080 | HTTP | JP | Elite | xTom Limited
-34.241.123.181:8080 | HTTP | IE | Elite | Amazon Technologies Inc.
-45.81.130.11:8888 | HTTP | US | Elite | Zenlayer Inc
-103.153.191.10:8080 | HTTP | ID | Transparent | WANET
-184.72.0.186:8080 | HTTP | US | Elite | Amazon.com, Inc.
-103.184.54.11:8080 | HTTP | ID | Transparent | PT Proxi Jaringan Nusanta..
-103.220.23.117:8080 | HTTP | ID | Transparent | CV. LINTAS MEDIA
-129.226.81.110:7890 | HTTP | SG | Elite | Tencent Cloud Computing (..
-13.40.195.37:3128 | HTTP | GB | Elite | Amazon Technologies Inc.
-103.217.144.114:3128 | HTTP | ID | Transparent | PT. GUNA BAHAN INTI
-5.181.178.111:8080 | HTTP | JP | Anonymous | Lain.sh
-99.79.58.74:80 | HTTP | CA | Elite | Amazon.com, Inc.
-103.51.205.66:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
-109.224.242.244:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.144.18.65:8080 | HTTP | ID | Transparent | PT Gasatek Bintang Nusant..
-105.159.148.73:5678 | HTTP | MA | Elite | Office National des Poste..
-147.45.166.46:3128 | HTTP | NL | Elite | Timeweb, LLP
-103.162.54.147:8080 | HTTP | ID | Transparent | PT Pratama Asia Globalind..
-185.196.182.22:8080 | HTTP | AL | Transparent | shqiponjaisp.al LLC
-160.187.174.249:80 | HTTP | ID | Transparent | PT Netindo Persada Nusant..
-171.236.200.73:80 | HTTP | VN | Transparent | Viettel Corporation
-103.244.107.9:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-47.85.51.197:1080 | HTTP | US | Elite | Alibaba.com LLC
-77.232.142.164:3128 | HTTP | RU | Transparent | Aeza International LTD
-203.150.128.157:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-103.193.145.201:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-81.26.179.64:1080 | HTTP | RU | Elite | OOO ComLine
-157.66.50.147:8080 | HTTP | ID | Transparent | PT BARAYA TELEKOMUNIKASI ..
-119.159.251.187:80 | HTTP | PK | Anonymous | Pakistan Telecommuication..
-103.158.97.83:8080 | HTTP | ID | Transparent | PT Dinar Wahana Gemilang
-154.119.80.27:3128 | HTTP | ZW | Transparent | Telecontract Pvt Ltd
-185.230.190.195:3128 | HTTP | FI | Elite | Livi Hosting LTD
+92.113.149.172:1080 | HTTP | DK | Elite | Webdock.io ApS
 89.43.134.91:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-41.57.136.174:8080 | HTTP | ZA | Transparent | SCR PTA C
-138.124.99.216:8888 | HTTP | FI | Elite | Aeza International LTD
-82.146.45.118:3128 | HTTP | RU | Transparent | JSC IOT
-212.58.132.5:8888 | HTTP | GB | Transparent | NSFOCUS, Inc.
-218.153.163.186:8080 | HTTP | KR | Elite | Korea Telecom
-36.66.195.148:8080 | HTTP | ID | Transparent | PT. Telekomunikasi Indone..
-5.129.192.173:3128 | HTTP | RU | Elite | Adman LLC
-103.193.144.15:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-101.255.32.43:8080 | HTTP | ID | Transparent | PT Remala Abadi
-43.252.238.138:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
-13.212.26.15:8080 | HTTP | SG | Elite | Amazon Technologies Inc.
-188.132.150.44:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-203.175.103.123:8080 | HTTP | ID | Transparent | PT. Mitra Kita Brilian
-103.9.78.2:3128 | HTTP | VN | Elite | VINAHOST
-36.92.104.123:8080 | HTTP | ID | Transparent | Telekomunikasi Indonesia
-94.72.109.196:3128 | HTTP | GB | Transparent | Contabo GmbH
-103.176.97.228:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
-187.216.141.46:3128 | HTTP | MX | Transparent | Uninet S.A. de C.V.
-89.208.104.34:3128 | HTTP | NL | Transparent | Aeza International LTD
-38.211.24.97:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
-139.135.79.218:8080 | HTTP | PH | Transparent | Dito Telecommunity Corp.
-5.188.27.44:3128 | HTTP | RU | Transparent | VPS network
-200.3.197.101:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
-209.38.154.7:1080 | HTTP | US | Elite | DigitalOcean, LLC
-58.147.186.79:8080 | HTTP | ID | Transparent | PT. Transhybrid Communica..
-195.62.50.4:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.144.146.8:1080 | HTTP | ID | Transparent | Lexxa Data
-103.76.109.61:80 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
-103.124.137.205:8080 | HTTP | ID | Transparent | Global Media Data Prima
-13.40.195.37:80 | HTTP | GB | Elite | Amazon Technologies Inc.
-41.218.225.250:3128 | HTTP | GH | Transparent | Vodafone Ghana
-31.56.78.140:8080 | HTTP | ID | Anonymous | PT Perwira Media Solusi
-146.120.199.193:80 | HTTP | UA | Transparent | FiberLink Ltd.
-103.127.111.213:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-147.45.156.45:3128 | HTTP | NL | Elite | Timeweb, LLP
-109.190.105.24:3128 | HTTP | FR | Transparent | OVH xDSL
-209.126.84.232:8888 | HTTP | US | Transparent | Contabo Inc.
-103.155.196.20:8080 | HTTP | ID | Transparent | JEMBATANDATA
-103.136.171.145:8080 | HTTP | ID | Elite | PT UNZA VITALI
-103.157.79.74:8080 | HTTP | ID | Transparent | EASTMEDIA
-203.150.113.87:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-203.150.113.246:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-186.123.103.14:3128 | HTTP | AR | Transparent | Techtel LMDS Comunicacion..
-103.193.145.231:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-185.227.137.122:8080 | HTTP | TR | Transparent | Turunc Smart Bilgisayar T..
-182.253.151.4:80 | HTTP | ID | Transparent | BIZNET
-103.192.174.154:8080 | HTTP | ID | Transparent | PT JKB Telematika Indones..
-91.107.176.134:1080 | HTTP | DE | Elite | Hetzner Online AG
-141.136.63.126:8080 | HTTP | VE | Transparent | FRONTERA
-103.31.235.245:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
-188.132.150.46:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-160.238.65.8:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-2.27.40.180:1080 | HTTP | NL | Elite | Play2go International Lim..
-103.242.104.60:8080 | HTTP | ID | Anonymous | PT Lintas Jaringan Nusant..
-103.156.233.137:8080 | HTTP | ID | Transparent | MULTIMEDIALINKTECH
-185.118.51.163:3128 | HTTP | AZ | Elite | AzFiberNet LLC
-119.47.93.83:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
-89.43.132.177:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.177.10.253:8080 | HTTP | ID | Transparent | PT Nalendra Gigantara Med..
-103.179.252.17:3128 | HTTP | ID | Transparent | PT Pusaka Kreasi Mandiri
-193.148.250.155:8080 | HTTP | CH | Transparent | iFog GmbH
-131.222.247.51:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-176.88.166.162:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-200.3.197.85:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
-198.59.68.130:3128 | HTTP | US | Transparent | CenturyLink Communication..
-103.127.111.5:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-124.121.2.131:8080 | HTTP | TH | Transparent | TRUEBB
-89.43.135.218:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-78.11.96.22:8888 | HTTP | PL | Transparent | Netia SA
-119.47.93.86:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
-131.222.252.70:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.189.197.212:8080 | HTTP | ID | Transparent | PT Graha Sumber Teknologi
-202.74.77.12:8080 | HTTP | ID | Anonymous | PT Giga Patra Multimedia
-43.156.132.113:3128 | HTTP | SG | Transparent | Shenzhen Tencent Computer..
-103.124.137.78:8080 | HTTP | ID | Transparent | Global Media Data Prima
-103.132.52.229:8080 | HTTP | ID | Anonymous | PT Adeaksa Indo Jayatama
-103.193.145.26:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-38.211.24.146:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
-15.204.151.148:3128 | HTTP | US | Transparent | OVH SAS
-131.222.251.119:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-222.228.171.92:8080 | HTTP | JP | Transparent | ARTERIA Networks Corporat..
-149.86.144.246:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
-44.192.54.217:3128 | HTTP | US | Transparent | Amazon.com
-203.150.128.235:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-103.18.78.130:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
-15.204.230.28:3128 | HTTP | US | Transparent | OVH SAS
-212.108.115.114:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-210.87.92.54:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-78.141.228.128:1080 | HTTP | GB | Elite | The Constant Company, LLC
-38.156.72.13:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-103.188.173.101:1080 | HTTP | ID | Elite | PT Satria Digital Media
-103.175.237.234:3128 | HTTP | ID | Transparent | PT Marva Global Telekomun..
-212.108.115.117:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-38.46.233.146:8080 | HTTP | ID | Transparent | PT CYB Media Group
-147.45.167.84:3128 | HTTP | NL | Elite | Timeweb, LLP
-109.196.164.159:1080 | HTTP | RU | Elite | JSC Mediasoft ekspert
-8.219.97.248:80 | HTTP | SG | Elite | Alibaba Cloud (Singapore)..
-121.130.199.56:3128 | HTTP | KR | Elite | Korea Telecom
-103.244.107.101:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-144.124.227.145:8080 | HTTP | NL | Elite | Servers Tech Fzco
-160.238.65.4:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-103.56.80.37:8080 | HTTP | ID | Transparent | PT Jaringan Citra Mandiri
-104.247.51.76:3128 | HTTP | US | Transparent | Lightower Fiber Networks ..
-38.188.63.134:8080 | HTTP | ID | Anonymous | PT Nesta Indo Media
-210.87.125.57:8080 | HTTP | ID | Transparent | CV Brawijaya Giga Network
-103.171.245.104:1080 | HTTP | ID | Transparent | PT Data Arta Sedaya
-92.53.76.123:8080 | HTTP | RU | Transparent | JSC Selectel
-160.191.180.121:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-157.66.138.100:1080 | HTTP | ID | Transparent | PT Neo Fiber Teknologi
-15.204.151.145:3128 | HTTP | US | Transparent | OVH SAS
-43.99.54.80:7890 | HTTP | HK | Elite | Alibaba (US) Technology C..
-38.180.2.107:3128 | HTTP | BG | Transparent | M247 Europe SRL
-157.10.97.12:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-195.62.50.176:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.76.107.11:8080 | HTTP | ID | Transparent | PT Geka Solusi Utama
-150.230.211.74:8080 | HTTP | JP | Transparent | Oracle Corporation
-131.222.250.237:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.10.231.189:8080 | HTTP | TH | Transparent | CATBB
-94.131.83.119:3128 | HTTP | UN | Transparent | Lookup Error
-103.76.104.186:8080 | HTTP | ID | Transparent | PT Citra Prima Media
-155.212.188.205:8080 | HTTP | RU | Elite | Beget LLC
-103.190.170.144:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
-18.142.120.165:80 | HTTP | SG | Elite | Amazon Technologies Inc.
-103.229.14.82:8080 | HTTP | ID | Transparent | PT Arthaloka Reka Teknolo..
-122.248.45.54:8080 | HTTP | ID | Transparent | PT PC24 Cyber Indonesia
-3.222.207.104:3128 | HTTP | US | Transparent | Amazon Technologies Inc.
-193.43.140.101:8080 | HTTP | SY | Transparent | Syrian Telecom
-131.222.251.107:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-180.191.233.125:8080 | HTTP | PH | Transparent | Globe Telecom
-103.163.80.62:8080 | HTTP | ID | Elite | PT Data Arta Sedaya
-103.220.23.113:8080 | HTTP | ID | Transparent | CV. LINTAS MEDIA
-103.139.98.177:8080 | HTTP | ID | Transparent | Digital Network Setiawan
-103.156.233.195:8080 | HTTP | ID | Transparent | MULTIMEDIALINKTECH
-89.43.135.9:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-102.164.220.247:8080 | HTTP | ZA | Transparent | Jenny Internet cc
-160.250.226.94:8080 | HTTP | ID | Transparent | PT Apci Network Solutions
-43.155.86.199:8080 | HTTP | HK | Transparent | Shenzhen Tencent Computer..
-121.130.199.76:3128 | HTTP | KR | Elite | Korea Telecom
-51.84.100.37:80 | HTTP | IL | Elite | Amazon.com, Inc.
-103.193.145.59:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-188.132.150.253:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-31.56.78.170:8080 | HTTP | ID | Anonymous | PT Perwira Media Solusi
-184.82.170.148:8080 | HTTP | TH | Transparent | AIS-Fibre
-103.229.14.84:8080 | HTTP | ID | Transparent | PT Arthaloka Reka Teknolo..
-200.218.236.2:8080 | HTTP | BR | Elite | X99 INTERNET LTDA.
-203.150.113.11:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-194.124.36.4:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-212.108.115.146:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.127.111.249:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-43.252.106.66:8080 | HTTP | ID | Transparent | PT Lintas Data Prima
-103.166.9.50:3128 | HTTP | ID | Anonymous | PT Akses Bersama Sedaya
-103.108.63.182:8080 | HTTP | BD | Transparent | Mostafizur Rahman Patwary
-103.166.182.144:3128 | HTTP | VN | Transparent | ZOZO
-95.214.9.93:3128 | HTTP | FI | Elite | First Server Limited
-103.97.140.52:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-103.39.51.148:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
-103.144.146.7:1080 | HTTP | ID | Transparent | Lexxa Data
-103.158.97.116:8080 | HTTP | ID | Transparent | PT Dinar Wahana Gemilang
-89.43.132.15:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.252.89.130:8080 | HTTP | DE | Elite | Oliver Horscht is trading..
-160.191.130.243:8080 | HTTP | ID | Transparent | PT Jaringan Lintas Mariti..
-173.212.246.157:3128 | HTTP | FR | Transparent | Contabo GmbH
-103.166.159.227:1080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
-202.57.25.217:8080 | HTTP | ID | Transparent | announced of WINET
-200.3.197.53:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
-218.153.163.156:8080 | HTTP | KR | Elite | Korea Telecom
-77.110.116.224:3128 | HTTP | AT | Transparent | Aeza International LTD
-35.183.8.131:80 | HTTP | CA | Elite | Amazon Technologies Inc.
-103.46.186.242:8080 | HTTP | ID | Transparent | PT Air Lintas Komunikasi
-115.75.184.174:8080 | HTTP | VN | Transparent | VIETELxdsl
-60.249.94.208:3128 | HTTP | TW | Anonymous | Chunghwa Telecom Co., Ltd..
-200.3.197.105:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
-103.189.250.121:8080 | HTTP | ID | Elite | PT Pandawa Lima Java Netw..
-109.224.242.38:8080 | HTTP | TR | Anonymous | High Speed For Internet S..
-103.71.162.17:8080 | HTTP | ID | Transparent | PT. Menaksopal Link Nusan..
-192.232.48.20:8080 | HTTP | ID | Transparent | PT Axindo Infinitas Netwo..
-45.88.0.115:3128 | HTTP | PL | Transparent | Layer IT services
-182.253.121.68:8080 | HTTP | ID | Transparent | BIZNET
-45.129.141.174:3128 | HTTP | SK | Transparent | eServer s.r.o.
-176.88.166.188:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-193.43.159.95:8080 | HTTP | SY | Transparent | Syrian Telecom
-103.39.51.148:8080 | HTTP | UN | Transparent | Lookup Error
-159.13.44.239:8080 | HTTP | AU | Elite | Oracle Corporation
-176.124.205.142:1080 | HTTP | US | Elite | Aeza International LTD
-56.155.44.218:3128 | HTTP | JP | Elite | Amazon.com, Inc.
-89.43.132.93:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-154.64.232.35:8080 | HTTP | US | Elite | NetLab Global
-163.223.150.97:8080 | HTTP | ID | Anonymous | PT Microcyber Data Indone..
-109.224.242.120:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-109.127.82.85:8080 | HTTP | IQ | Transparent | Allay Nawroz Telecom Comp..
-202.47.185.4:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
-149.51.42.10:3128 | HTTP | US | Elite | Cogent Communications
-103.93.93.191:8080 | HTTP | ID | Transparent | MYRISE
-34.101.184.164:3128 | HTTP | ID | Anonymous | Google LLC
-105.159.149.120:5678 | HTTP | MA | Elite | Office National des Poste..
-185.246.118.204:3128 | HTTP | RU | Elite | Alex Group LLC
-1.231.81.166:3128 | HTTP | KR | Transparent | SK Broadband Co Ltd
 139.28.49.106:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-49.48.53.247:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
-121.130.199.151:3128 | HTTP | KR | Elite | Korea Telecom
-200.174.198.32:8888 | HTTP | BR | Anonymous | Claro S.A.
-20.204.228.118:8080 | HTTP | IN | Anonymous | Microsoft Corporation
-195.123.209.48:3128 | HTTP | LV | Transparent | Green Floid LLC
-103.68.215.36:8080 | HTTP | ID | Transparent | PT Media Grasi Internet
-20.164.75.153:8080 | HTTP | ZA | Elite | Microsoft Corporation
-103.155.199.185:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.155.199.208:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-185.200.37.238:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-103.124.137.184:3128 | HTTP | ID | Transparent | Global Media Data Prima
-146.19.56.212:7890 | HTTP | US | Elite | Rackvolt Cloud Solutions ..
-182.253.151.4:3128 | HTTP | ID | Transparent | BIZNET
-45.236.129.64:3128 | HTTP | CL | Transparent | ZAM LTDA.
-45.134.14.169:8080 | HTTP | DE | Transparent | First Server Limited
-15.204.151.143:3128 | HTTP | US | Transparent | OVH SAS
-103.174.122.217:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
-103.191.58.210:8080 | HTTP | ID | Transparent | Panjalu Sarana Data Indon..
-195.62.50.25:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-185.225.40.122:8080 | HTTP | SY | Transparent | sy-samaweb
-105.159.148.42:5678 | HTTP | MA | Elite | Office National des Poste..
-103.169.26.114:8080 | HTTP | ID | Transparent | PT Aplikanusa Lintasarta
-113.192.31.7:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-154.18.255.102:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
-43.252.238.218:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
-5.129.192.17:1080 | HTTP | RU | Elite | Adman LLC
-103.39.49.204:3128 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
-178.46.144.14:8080 | HTTP | RU | Transparent | OJSC uralsvyazinform
-182.253.109.174:8080 | HTTP | ID | Transparent | Biznet Metronet
-103.82.246.249:8080 | HTTP | ID | Transparent | PT Master Star Network
-202.47.185.162:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
-103.180.126.235:8080 | HTTP | ID | Elite | PT Alam Media Data
-202.58.77.235:1080 | HTTP | ID | Elite | PT Data Buana Nusantara
-103.193.145.42:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-176.117.105.227:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-104.129.202.127:80 | HTTP | US | Transparent | ZSCALER, INC.
-38.156.72.39:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-103.133.25.149:8080 | HTTP | ID | Transparent | PT PHATRIA INTI PERSADA
-163.223.116.86:8080 | HTTP | ID | Transparent | PT Signall Network Nusant..
-103.19.78.204:1080 | HTTP | ID | Elite | PT Persada Data Multimedi..
-203.150.113.244:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-182.253.151.4:8080 | HTTP | ID | Transparent | BIZNET
-34.96.238.40:8080 | HTTP | HK | Elite | Google LLC
-34.85.118.216:3128 | HTTP | JP | Transparent | Google LLC
-34.101.184.164:3128 | HTTP | ID | Transparent | Google LLC
-176.88.65.190:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-103.125.174.227:8080 | HTTP | ID | Transparent | PT Trinity Teknologi Nusa..
-173.44.141.142:8080 | HTTP | US | Elite | Eonix Corporation
-103.180.126.138:8080 | HTTP | ID | Transparent | PT Alam Media Data
-160.19.146.87:8080 | HTTP | ID | Transparent | PT Taska Sarana Nusantara
-102.209.56.21:80 | HTTP | KE | Elite | Vijiji Connect LTD
+41.65.103.180:8080 | HTTP | EG | Anonymous | Etisalat Misr Mobile BB
+103.126.86.192:80 | HTTP | ID | Transparent | PT. Rasi Bintang Perkasa
+15.204.233.75:3128 | HTTP | US | Transparent | OVH SAS
+103.157.117.116:8080 | HTTP | UN | Anonymous | Lookup Error
+101.255.32.41:8080 | HTTP | ID | Transparent | PT Remala Abadi
+103.193.145.43:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+146.196.108.206:8080 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
+185.191.236.162:8080 | HTTP | CH | Anonymous | Grupo Panaglobal 15 S.A
+173.212.246.157:3128 | HTTP | FR | Transparent | Contabo GmbH
+77.91.77.220:3128 | HTTP | GE | Elite | Cloud Hosting Solutions, ..
+103.188.169.95:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+138.124.108.176:3128 | HTTP | NL | Transparent | Aeza International LTD
+157.66.50.55:8080 | HTTP | ID | Transparent | PT BARAYA TELEKOMUNIKASI ..
+147.45.156.45:3128 | HTTP | NL | Elite | Timeweb, LLP
+185.21.11.140:1080 | HTTP | SE | Elite | Fornex Hosting S.L.
+164.138.205.232:8080 | HTTP | SY | Transparent | High Speed For Internet S..
 45.88.0.113:3128 | HTTP | PL | Anonymous | Layer IT services
-195.62.50.20:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-15.228.88.39:80 | HTTP | BR | Elite | Amazon.com, Inc.
-116.68.115.74:8080 | HTTP | IN | Transparent | Asianet Satellite Communi..
-103.191.196.40:8080 | HTTP | ID | Transparent | PT Pangkalan Lintas Data
-103.244.107.150:8080 | HTTP | ID | Anonymous | PT Sahabat Fiber Indonesi..
-103.120.76.82:8080 | HTTP | ID | Transparent | PT Haci Telekomunikasi In..
-51.250.25.180:1080 | HTTP | RU | Elite | Yandex.Cloud LLC
-103.180.118.207:1080 | HTTP | ID | Elite | PT Persada Data Multimedi..
-160.191.180.145:3128 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-89.43.132.226:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-124.121.2.182:8080 | HTTP | TH | Transparent | TRUEBB
-103.46.4.95:8080 | HTTP | ID | Transparent | PT Akses Sentral Teknolog..
-103.191.196.154:8080 | HTTP | ID | Elite | PT Pangkalan Lintas Data
-103.171.254.26:8080 | HTTP | ID | Transparent | PT Zona Kolektif Indonesi..
-103.39.49.204:3128 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
-103.171.241.36:8080 | HTTP | ID | Transparent | PT Abs Multimedia Indones..
-51.79.71.106:8080 | HTTP | CA | Transparent | OVH SAS
-203.150.113.156:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.248.9.81:8080 | HTTP | ID | Transparent | PT Flashnet Inovasi Tekno..
+103.88.238.3:8080 | HTTP | IN | Elite | Mana Communications
+200.3.197.81:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
+178.238.117.178:8080 | HTTP | RU | Elite | Mastertel ISP
+202.47.185.162:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
+47.238.220.4:8888 | HTTP | HK | Transparent | Alibaba Cloud LLC
+103.97.140.52:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+103.158.97.116:8080 | HTTP | ID | Transparent | PT Dinar Wahana Gemilang
+15.204.151.141:3128 | HTTP | US | Transparent | OVH SAS
+121.135.144.1:8080 | HTTP | KR | Elite | Korea Telecom
+201.139.115.38:8080 | HTTP | MX | Elite | Transtelco Inc
+179.1.48.42:8080 | HTTP | CO | Transparent | Internexa S.a. E.S.P
+78.13.50.125:3128 | HTTP | MX | Elite | Amazon.com
+187.111.144.102:8080 | HTTP | BR | Elite | Caezar Provedor de Intern..
+157.66.36.130:8080 | HTTP | ID | Transparent | PT Trik Media Data
+146.196.98.146:8080 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
+38.156.72.13:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+182.52.27.212:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+103.156.233.195:8080 | HTTP | ID | Transparent | MULTIMEDIALINKTECH
+223.206.188.240:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
+194.104.9.38:3128 | HTTP | NL | Elite | Baykov Ilya Sergeevich
+103.189.250.121:8080 | HTTP | ID | Elite | PT Pandawa Lima Java Netw..
+181.78.195.36:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+38.188.63.134:8080 | HTTP | ID | Anonymous | PT Nesta Indo Media
+103.156.17.137:8080 | HTTP | ID | Transparent | RSTNET
+58.27.196.202:8080 | HTTP | PK | Transparent | Wateen Telecom Limited
+203.150.128.61:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+188.132.249.231:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+217.160.162.25:8888 | HTTP | DE | Transparent | IONOS SE
+140.238.254.5:8080 | HTTP | IN | Transparent | Oracle Corporation
+103.144.18.65:8080 | HTTP | ID | Transparent | PT Gasatek Bintang Nusant..
+2.27.40.180:1080 | HTTP | NL | Elite | Play2go International Lim..
+103.174.122.208:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
+103.220.23.117:8080 | HTTP | ID | Transparent | CV. LINTAS MEDIA
+203.150.128.10:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.238.232.70:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
+168.205.255.238:80 | HTTP | BR | Anonymous | Gente Telecom do Brasil E..
 154.27.196.3:8080 | HTTP | MX | Transparent | Cogent Communications
-102.164.252.150:8080 | HTTP | GQ | Transparent | Conexxia Guinea Equatoria..
-134.236.29.228:8080 | HTTP | TH | Transparent | CAT-BB
+183.98.143.134:8080 | HTTP | KR | Elite | Korea Telecom
+128.199.247.154:8080 | HTTP | SG | Transparent | DigitalOcean, LLC
+103.156.14.13:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+181.78.195.45:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+103.160.40.10:8080 | HTTP | ID | Transparent | PT Wistel Teknologi Solus..
+83.222.7.205:3128 | HTTP | UZ | Elite | "Uzbektelekom" Joint Stoc..
+200.174.198.32:8888 | HTTP | BR | Anonymous | Claro S.A.
+194.87.85.207:1080 | HTTP | NL | Elite | xorek.cloud International..
+103.19.78.205:1080 | HTTP | ID | Elite | PT Persada Data Multimedi..
+176.88.166.219:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+176.117.104.167:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.171.255.59:8080 | HTTP | ID | Transparent | ZKI
+150.241.116.41:3128 | HTTP | DE | Elite | DpkgSoft International Li..
+103.203.232.166:8080 | HTTP | ID | Transparent | PT Inti Data Guna
+144.124.227.145:8080 | HTTP | NL | Elite | Servers Tech Fzco
+116.90.224.50:8080 | HTTP | NP | Transparent | Websurfer Nepal Communica..
+121.130.199.80:3128 | HTTP | KR | Elite | Korea Telecom
+193.23.194.147:3128 | HTTP | NL | Elite | Play2go International Lim..
+20.127.128.70:8080 | HTTP | US | Elite | Microsoft Corporation
+105.159.148.42:5678 | HTTP | MA | Elite | Office National des Poste..
+182.253.143.141:8080 | HTTP | ID | Transparent | Biznet Networks
+45.4.58.222:8080 | HTTP | BR | Transparent | VN TELECOM PROVEDORES A.R..
+103.171.255.114:8080 | HTTP | ID | Transparent | ZKI
+103.222.255.179:8080 | HTTP | ID | Transparent | PT Iktiar Doa Tawakal
+103.247.23.117:8080 | HTTP | ID | Transparent | PT wifian Solution
+38.211.24.146:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
+52.78.193.98:80 | HTTP | KR | Elite | Amazon Technologies Inc.
+103.126.86.147:8080 | HTTP | ID | Anonymous | PT. Rasi Bintang Perkasa
+188.132.249.199:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.152.238.49:1080 | HTTP | ID | Transparent | APRIN
+15.204.151.147:3128 | HTTP | US | Transparent | OVH SAS
+103.180.126.114:8080 | HTTP | ID | Anonymous | PT Alam Media Data
+103.122.1.130:8080 | HTTP | ID | Transparent | PT. Java Digital Nusantar..
+131.222.251.103:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+86.109.3.24:80 | HTTP | US | Transparent | Equinix (EMEA) Acquisitio..
+103.190.170.86:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
+124.121.2.131:8080 | HTTP | TH | Transparent | TRUEBB
+195.62.50.20:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+124.121.2.178:8080 | HTTP | TH | Transparent | TRUEBB
+35.87.40.144:80 | HTTP | US | Elite | Amazon.com, Inc.
+103.132.53.42:8080 | HTTP | ID | Transparent | PT Adeaksa Indo Jayatama
+103.171.241.36:8080 | HTTP | ID | Transparent | PT Abs Multimedia Indones..
+89.43.133.231:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+96.44.137.177:8888 | HTTP | CA | Transparent | HostPapa
+109.224.242.120:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.173.139.10:8080 | HTTP | ID | Transparent | PT Serayu Multi Connectio..
+38.156.72.39:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.244.107.2:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+212.58.132.5:8888 | HTTP | GB | Transparent | NSFOCUS, Inc.
+116.68.115.74:8080 | HTTP | IN | Transparent | Asianet Satellite Communi..
+109.224.242.38:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+16.51.5.167:1080 | HTTP | AU | Elite | Amazon.com
+223.207.103.77:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
+103.124.137.35:3128 | HTTP | ID | Transparent | Global Media Data Prima
+103.171.255.170:8080 | HTTP | ID | Transparent | ZKI
+195.26.224.49:3128 | HTTP | NL | Elite | Servers Tech Fzco
+103.181.255.105:8080 | HTTP | ID | Transparent | PT Giga Digital Nusantara
+202.21.115.178:8080 | HTTP | MN | Transparent | Mobinet LLC
+77.110.113.3:3128 | HTTP | RU | Transparent | Global Internet Solutions..
+103.127.111.17:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+168.138.179.48:3128 | HTTP | SG | Elite | Oracle Corporation
+160.238.65.6:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+105.159.148.12:5678 | HTTP | MA | Elite | Office National des Poste..
+102.223.154.177:8080 | HTTP | SL | Transparent | MOIAC
+139.28.49.109:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+160.238.65.7:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+165.99.56.135:8080 | HTTP | ID | Anonymous | PT TENGGARA MULTIMEDIA GE..
+52.78.193.98:3128 | HTTP | KR | Elite | Amazon Technologies Inc.
+210.87.92.139:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+103.193.145.231:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+103.244.107.41:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+103.162.63.71:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
+109.127.82.86:8080 | HTTP | IQ | Transparent | Allay Nawroz Telecom Comp..
+103.82.23.221:8888 | HTTP | VN | Elite | Vietnam Posts and Telecom..
+168.138.147.179:3128 | HTTP | BR | Transparent | Oracle Corporation
+103.97.140.246:1080 | HTTP | ID | Elite | PT Jembatan Data Pangrang..
+103.87.202.196:8080 | HTTP | ID | Transparent | PT MULTI GUNA SINERGI
+103.253.127.45:8080 | HTTP | ID | Anonymous | PT Media Akses Telematika
+203.150.128.20:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+176.88.166.174:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+89.43.132.177:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+124.121.2.239:8080 | HTTP | TH | Transparent | TRUEBB
+185.105.89.187:8888 | HTTP | RU | Anonymous | First Server Limited
+181.78.195.38:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+188.132.249.220:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+173.44.141.142:8080 | HTTP | US | Elite | Eonix Corporation
+154.58.138.227:8080 | HTTP | ID | Transparent | MEGADATA-ISP
+159.89.191.221:3128 | HTTP | US | Elite | DigitalOcean, LLC
+103.71.162.17:8080 | HTTP | ID | Transparent | PT. Menaksopal Link Nusan..
+103.126.87.182:8080 | HTTP | ID | Anonymous | PT. Rasi Bintang Perkasa
+103.175.245.204:8080 | HTTP | BD | Transparent | Orange Communication
+103.147.247.26:8080 | HTTP | ID | Transparent | PLBNET
+103.39.49.204:3128 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
+176.12.78.141:3128 | HTTP | KZ | Elite | Netfire TEC
+35.183.8.131:8080 | HTTP | CA | Elite | Amazon Technologies Inc.
+103.162.54.147:8080 | HTTP | ID | Transparent | PT Pratama Asia Globalind..
+196.216.133.215:8080 | HTTP | ZA | Transparent | HERO TELECOMS (PTY) LTD
+161.35.70.36:8888 | HTTP | DE | Elite | DigitalOcean, LLC
+163.223.150.97:8080 | HTTP | ID | Anonymous | PT Microcyber Data Indone..
+103.31.235.183:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
+103.144.18.70:3128 | HTTP | ID | Transparent | PT Gasatek Bintang Nusant..
+43.198.22.151:8080 | HTTP | HK | Elite | Amazon.com, Inc.
+202.47.185.4:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
+64.188.77.221:3128 | HTTP | NL | Elite | OC NETWORKS LIMITED
+103.193.144.1:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+38.156.95.73:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
+103.163.103.183:8080 | HTTP | ID | Transparent | PT Mamura Inter Media
+103.176.96.94:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
+188.132.249.236:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.244.107.246:8080 | HTTP | ID | Anonymous | PT Sahabat Fiber Indonesi..
+185.133.214.90:8080 | HTTP | MM | Transparent | Global Technology Co
+181.78.195.34:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+157.20.239.25:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
+176.124.222.8:1080 | HTTP | RU | Elite | Aeza Group LLC
+103.39.51.148:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
+193.43.140.230:8080 | HTTP | SY | Transparent | Syrian Telecom
+64.188.67.154:1080 | HTTP | DE | Elite | Play2go International Lim..
+139.28.49.89:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.162.54.83:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
+188.246.224.49:7890 | HTTP | RU | Elite | JSC Selectel
+210.87.74.181:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+188.132.249.198:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.234.35.231:1080 | HTTP | ID | Elite | PT. EXABIT GROUP NETWORK
+103.76.109.61:80 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
+103.198.154.151:8888 | HTTP | PK | Transparent | PLAY BROADBAND (PRIVATE) ..
+167.71.196.28:8080 | HTTP | SG | Elite | DigitalOcean, LLC
+103.81.194.126:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
+196.204.83.229:8080 | HTTP | EG | Anonymous | Vodafone Data
+1.231.81.166:3128 | HTTP | KR | Transparent | SK Broadband Co Ltd
+103.171.183.153:8080 | HTTP | ID | Transparent | PT Hayat Teknologi Inform..
+46.250.242.134:8080 | HTTP | GB | Transparent | Contabo Asia Private Limi..
+160.191.180.145:3128 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+160.238.65.8:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+103.31.235.90:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
+139.28.49.113:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+161.248.206.196:8080 | HTTP | ID | Transparent | PT Iktiar Doa Tawakal
+223.16.170.103:80 | HTTP | HK | Transparent | HGC Global Communications..
+94.131.93.238:3128 | HTTP | KZ | Elite | "Cloud Services Kazakhsta..
+176.88.166.176:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+101.255.211.109:8080 | HTTP | ID | Elite | PT Remala Abadi
+167.71.196.178:80 | HTTP | SG | Elite | DigitalOcean, LLC
+103.203.234.46:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
+154.19.39.133:8080 | HTTP | ID | Transparent | PT Lintas Network Solusi
+103.242.104.92:8888 | HTTP | ID | Anonymous | PT Lintas Jaringan Nusant..
+147.45.124.122:3128 | HTTP | US | Anonymous | ZhouyiSat Communications
+103.46.186.242:8080 | HTTP | ID | Transparent | PT Air Lintas Komunikasi
+176.88.65.187:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+193.43.140.100:8080 | HTTP | SY | Transparent | Syrian Telecom
+103.51.205.66:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
+147.45.225.179:3128 | HTTP | NL | Transparent | Timeweb, LLP
+38.150.19.136:8080 | HTTP | ID | Transparent | PT MMS DIGITAL COMMUNICAT..
+109.196.164.159:1080 | HTTP | RU | Elite | JSC Mediasoft ekspert
+109.224.242.244:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+165.225.113.220:3128 | HTTP | SG | Transparent | ZSCALER, INC.
+80.250.165.91:80 | HTTP | RU | Transparent | LLC Stroysvyazkonsaling
+103.166.9.50:3128 | HTTP | ID | Anonymous | PT Akses Bersama Sedaya
+159.13.44.239:8080 | HTTP | AU | Elite | Oracle Corporation
+187.86.59.122:80 | HTTP | BR | Elite | Opcao Telecom
+203.150.113.87:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.99.136.22:8080 | HTTP | ID | Transparent | PT Jelajah Kreasi Informa..
+103.161.153.177:1080 | HTTP | BD | Transparent | Click Earth Online
+121.101.129.61:8080 | HTTP | ID | Transparent | PT SELARAS CITRA TERABIT
+160.238.65.8:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+131.222.247.94:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+160.238.65.9:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+103.81.194.165:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
+93.81.236.9:8080 | HTTP | RU | Transparent | Corbina Broadband Omsk
+61.73.158.215:1080 | HTTP | KR | Elite | Korea Telecom
+103.162.54.171:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
+43.99.54.80:7890 | HTTP | HK | Elite | Alibaba (US) Technology C..
+13.40.195.37:3128 | HTTP | GB | Elite | Amazon Technologies Inc.
+176.117.104.175:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.203.234.42:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
+121.130.199.151:3128 | HTTP | KR | Elite | Korea Telecom
+146.120.199.193:8080 | HTTP | UA | Transparent | FiberLink Ltd.
+195.62.50.35:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+104.129.202.127:80 | HTTP | US | Transparent | ZSCALER, INC.
+163.223.150.129:8080 | HTTP | ID | Transparent | PT Microcyber Data Indone..
+62.113.119.14:8080 | HTTP | RU | Elite | Hosting technology LTD
+131.222.251.45:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.199.117.111:8080 | HTTP | ID | Transparent | PT Hepra Teknologi Indone..
+146.19.56.212:7890 | HTTP | US | Elite | Rackvolt Cloud Solutions ..
+103.39.49.137:3128 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
+157.20.239.23:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
+131.222.251.86:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+91.107.176.134:1080 | HTTP | DE | Elite | Hetzner Online AG
+160.19.19.43:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+157.15.41.138:8080 | HTTP | ID | Transparent | TRISARI
+121.130.199.111:3128 | HTTP | KR | Elite | Korea Telecom
+109.224.242.38:8080 | HTTP | TR | Anonymous | High Speed For Internet S..
+15.204.151.143:3128 | HTTP | US | Transparent | OVH SAS
+221.156.27.134:3128 | HTTP | KR | Transparent | Korea Telecom
+101.255.211.110:8080 | HTTP | ID | Elite | PT Remala Abadi
+103.244.107.9:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+95.181.174.211:1080 | HTTP | DE | Elite | Aeza International LTD
+89.43.134.56:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.51.205.95:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
+173.44.141.173:3128 | HTTP | US | Elite | Eonix Corporation
+34.96.238.40:8080 | HTTP | HK | Elite | Google LLC
+210.223.44.230:3128 | HTTP | KR | Anonymous | Korea Telecom
+43.252.238.218:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
+95.214.123.147:8080 | HTTP | HU | Transparent | Deltakon Kft.
+103.234.35.199:3128 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
+102.209.56.21:80 | HTTP | KE | Elite | Vijiji Connect LTD
+203.150.128.54:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.39.51.178:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
+182.52.27.80:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+157.20.239.19:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
+157.245.194.13:8888 | HTTP | SG | Transparent | DigitalOcean, LLC
+121.101.129.103:8080 | HTTP | ID | Transparent | PT SELARAS CITRA TERABIT
+89.43.133.190:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+195.62.50.25:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+160.19.18.219:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+212.108.115.38:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.56.80.37:8080 | HTTP | ID | Transparent | PT Jaringan Citra Mandiri
+185.200.37.238:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+202.153.4.170:7890 | HTTP | TW | Transparent | Sky Digital Co.
+31.56.78.170:8080 | HTTP | ID | Anonymous | PT Perwira Media Solusi
+176.88.166.188:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+103.155.64.220:8080 | HTTP | ID | Transparent | PT Media Access Telematik..
+89.43.135.218:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+176.88.166.207:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+103.147.134.103:8080 | HTTP | ID | Transparent | PT.MURNI MAKMUR ABADI
+43.156.132.113:3128 | HTTP | SG | Transparent | Shenzhen Tencent Computer..
+212.252.73.43:8080 | HTTP | TR | Transparent | GUNEYDOGUTELEKOM
+103.97.140.226:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+107.173.160.222:1080 | HTTP | US | Elite | HostPapa
+15.228.88.39:80 | HTTP | BR | Elite | Amazon.com, Inc.
+41.216.186.85:1080 | HTTP | ID | Elite | FASTHOSTING
+52.119.85.34:8080 | HTTP | US | Transparent | Natural Wireless, LLC
+194.58.47.219:1080 | HTTP | NL | Elite | SOLLUTIUM EU Sp z.o.o.
+41.57.136.174:8080 | HTTP | ZA | Transparent | SCR PTA C
+168.110.52.228:3128 | HTTP | JP | Elite | Oracle Corporation
+109.224.242.6:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+160.238.65.6:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+107.174.208.190:3128 | HTTP | US | Transparent | HostPapa
+103.180.126.138:8080 | HTTP | ID | Transparent | PT Alam Media Data
+103.82.246.249:8080 | HTTP | ID | Transparent | PT Master Star Network
+102.68.76.247:8080 | HTTP | KE | Transparent | Unwired Communications Lt..
+13.239.120.120:8080 | HTTP | AU | Elite | Amazon Technologies Inc.
+160.19.18.99:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+164.138.205.206:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.133.223.251:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
+212.108.115.2:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+203.150.128.5:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+1.225.116.115:1080 | HTTP | KR | Elite | SK Broadband Co Ltd
+109.190.105.24:3128 | HTTP | FR | Transparent | OVH xDSL
+89.43.134.94:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+113.192.31.7:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+165.99.151.252:8080 | HTTP | ID | Transparent | PT Win Akselerasi Net Ind..
+188.132.150.48:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.162.54.85:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
+182.253.109.147:8080 | HTTP | ID | Transparent | Biznet Metronet
+195.123.209.48:3128 | HTTP | LV | Transparent | Green Floid LLC
+193.43.159.165:8080 | HTTP | SY | Transparent | Syrian Telecom
+103.166.159.227:1080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
+103.234.35.141:8080 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
+103.193.145.45:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+92.53.76.123:8080 | HTTP | RU | Transparent | JSC Selectel
+43.208.134.144:3128 | HTTP | TH | Elite | Amazon.com, Inc.
+164.138.205.67:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+81.169.170.253:3128 | HTTP | DE | Transparent | Strato AG
+103.39.49.137:3128 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
+198.59.68.130:3128 | HTTP | US | Transparent | CenturyLink Communication..
+41.216.186.73:8080 | HTTP | ID | Anonymous | FASTHOSTING
+154.119.80.27:3128 | HTTP | ZW | Transparent | Telecontract Pvt Ltd
+194.124.36.130:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+212.252.39.100:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+103.199.117.110:8080 | HTTP | ID | Transparent | PT Hepra Teknologi Indone..
+103.97.140.110:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+203.150.128.133:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+113.11.179.170:8080 | HTTP | ID | Transparent | Biznet Networks
+103.108.63.183:8080 | HTTP | BD | Transparent | Mostafizur Rahman Patwary
+103.106.195.117:8080 | HTTP | IN | Elite | Elyzium Consulting
+15.204.230.28:3128 | HTTP | US | Transparent | OVH SAS
+119.47.93.85:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
+131.222.251.92:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.189.197.212:8080 | HTTP | ID | Transparent | PT Graha Sumber Teknologi
+185.227.137.125:8080 | HTTP | TR | Transparent | Turunc Smart Bilgisayar T..
+103.70.122.147:8080 | HTTP | ID | Transparent | PT Menara Digital Salama
+160.187.174.249:80 | HTTP | ID | Anonymous | PT Netindo Persada Nusant..
+5.196.101.18:3128 | HTTP | FR | Transparent | OVH SAS
+186.123.103.14:3128 | HTTP | AR | Transparent | Techtel LMDS Comunicacion..
+95.214.9.93:3128 | HTTP | FI | Elite | First Server Limited
+121.130.199.56:3128 | HTTP | KR | Elite | Korea Telecom
+195.158.8.123:3128 | HTTP | UZ | Elite | "Uzbektelekom" Joint Stoc..
+84.47.150.126:1080 | HTTP | RU | Elite | LLC "Nauka-Svyaz"
+51.95.13.205:3128 | HTTP | ES | Elite | Amazon.com, Inc.
+160.19.19.193:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+89.208.104.34:3128 | HTTP | NL | Transparent | Aeza International LTD
+209.126.84.232:8888 | HTTP | US | Transparent | Contabo Inc.
+131.222.251.95:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+157.66.50.37:8080 | HTTP | ID | Transparent | PT BARAYA TELEKOMUNIKASI ..
+185.118.51.163:3128 | HTTP | AZ | Elite | AzFiberNet LLC
+203.150.128.157:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+43.163.127.208:1080 | HTTP | SG | Elite | Shenzhen Tencent Computer..
+185.114.73.2:1080 | HTTP | ES | Elite | First Server Limited
+103.179.180.134:8080 | HTTP | ID | Transparent | PT Karya Aneka Persada
+120.28.220.169:8080 | HTTP | PH | Transparent | Globe Telecom
+103.51.205.185:1080 | HTTP | ID | Transparent | Lintas Data Prima, PT
+45.129.141.143:3128 | HTTP | SK | Transparent | eServer s.r.o.
+164.138.205.204:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+160.119.69.7:8080 | HTTP | US | Elite | HostUS
+91.217.81.92:8080 | HTTP | RU | Elite | First Server Limited
+119.47.93.86:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
+131.222.247.253:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+131.222.251.246:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.66.47.25:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
+105.159.149.120:5678 | HTTP | MA | Elite | Office National des Poste..
+107.174.3.75:3128 | HTTP | US | Transparent | HostPapa
+49.48.53.247:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
+15.157.63.22:3128 | HTTP | CA | Elite | Amazon.com, Inc.
+91.144.30.93:8080 | HTTP | SY | Transparent | STE Public Data Network B..
+103.61.16.92:8080 | HTTP | ID | Transparent | TWINSDATAPRATAMA
+103.179.252.81:3128 | HTTP | ID | Transparent | PT Pusaka Kreasi Mandiri
+105.159.148.43:5678 | HTTP | MA | Elite | Office National des Poste..
+103.3.246.71:3128 | HTTP | VN | Transparent | VDATA
+188.132.150.47:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+134.209.153.66:3128 | HTTP | IN | Transparent | DigitalOcean, LLC
+84.47.150.125:1080 | HTTP | RU | Elite | LLC "Nauka-Svyaz"
+103.193.144.118:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+103.157.79.73:8080 | HTTP | ID | Transparent | EASTMEDIA
+103.152.101.19:8080 | HTTP | PK | Transparent | PLAY BROADBAND (PRIVATE) ..
+103.156.17.232:8080 | HTTP | ID | Transparent | RSTNET
+103.244.107.97:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+168.144.75.9:3128 | HTTP | IN | Elite | DigitalOcean
+184.72.0.186:8080 | HTTP | US | Elite | Amazon.com, Inc.
+144.124.227.88:3128 | HTTP | NL | Elite | Servers Tech Fzco
+36.93.214.253:8080 | HTTP | ID | Transparent | Telekomunikasi Indonesia
+130.61.139.145:3128 | HTTP | DE | Transparent | Oracle Corporation
+103.124.137.189:3128 | HTTP | ID | Transparent | Global Media Data Prima
+109.237.97.208:1080 | HTTP | DE | Elite | International Hosting Com..
+157.15.82.92:8080 | HTTP | ID | Transparent | PT Delapan Broadband Inte..
+167.234.224.70:3128 | HTTP | BR | Elite | Oracle Corporation
+146.56.148.222:3128 | HTTP | KR | Transparent | Oracle Corporation
+195.62.50.30:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+150.241.106.173:8080 | HTTP | DE | Elite | DpkgSoft International Li..
+108.136.235.102:8080 | HTTP | ID | Elite | Amazon.com, Inc.
+36.92.104.123:8080 | HTTP | ID | Transparent | Telekomunikasi Indonesia
+45.198.20.173:8080 | HTTP | ID | Transparent | PT IKHLAS CIPTA TEKNOLOGI
+1.20.169.10:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+131.222.251.204:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+148.135.22.89:1080 | HTTP | US | Elite | Multacom Corporation
+103.81.110.181:8080 | HTTP | ID | Elite | PT Fiber Data Nusantara
+213.139.211.235:3128 | HTTP | RU | Transparent | BEGET.RU
+103.169.26.114:8080 | HTTP | ID | Transparent | PT Aplikanusa Lintasarta
+195.62.50.17:8080 | HTTP | TR | Elite | High Speed For Internet S..
+154.126.213.5:8080 | HTTP | ZA | Transparent | JENNY Network
+203.150.113.156:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+149.86.140.197:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
+34.241.123.181:8080 | HTTP | IE | Elite | Amazon Technologies Inc.
+103.157.117.238:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
+13.40.195.37:80 | HTTP | GB | Elite | Amazon Technologies Inc.
+176.124.205.142:1080 | HTTP | US | Elite | Aeza International LTD
+109.127.82.85:8080 | HTTP | IQ | Transparent | Allay Nawroz Telecom Comp..
+46.30.46.133:3128 | HTTP | NL | Transparent | EUROBYTE
+157.20.128.29:8080 | HTTP | ID | Transparent | PT Citra Meta Data
+117.236.124.166:3128 | HTTP | IN | Transparent | BSNL Internet
+103.122.64.222:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
+16.163.173.29:1080 | HTTP | HK | Elite | Amazon.com, Inc.
+157.20.239.21:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
+168.138.175.189:7890 | HTTP | SG | Elite | Oracle Corporation
+103.193.144.15:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+182.253.109.174:8080 | HTTP | ID | Transparent | Biznet Metronet
+103.171.245.104:1080 | HTTP | ID | Transparent | PT Data Arta Sedaya
+51.79.207.21:8080 | HTTP | SG | Transparent | OVH SAS
+131.222.251.119:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+188.132.249.240:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+182.253.121.68:8080 | HTTP | ID | Transparent | BIZNET
+131.222.250.237:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+136.228.128.248:8080 | HTTP | KH | Transparent | S.I Group
+38.156.72.51:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+157.66.138.100:1080 | HTTP | ID | Transparent | PT Neo Fiber Teknologi
+152.42.201.82:3128 | HTTP | SG | Elite | DigitalOcean, LLC
+78.13.50.125:80 | HTTP | MX | Elite | Amazon.com
+152.32.132.190:7890 | HTTP | HK | Elite | UCLOUD INFORMATION TECHNO..
 103.171.241.254:8080 | HTTP | ID | Transparent | PT Abs Multimedia Indones..
-103.163.103.208:8080 | HTTP | ID | Transparent | PT Mamura Inter Media
-150.230.249.50:1080 | HTTP | KR | Elite | Oracle Corporation
-109.224.242.120:8080 | HTTP | TR | Anonymous | High Speed For Internet S..
-176.108.244.62:8080 | HTTP | RU | Elite | "Cloud Technologies" LLC ..
-170.106.137.160:3128 | HTTP | US | Transparent | Tencent Cloud Computing (..
+202.58.77.235:8080 | HTTP | ID | Elite | PT Data Buana Nusantara
+103.66.47.57:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
+103.156.248.98:8080 | HTTP | ID | Transparent | Trans Media Telekomunikas..
+49.48.83.198:8080 | HTTP | TH | Anonymous | Triple T Broadband Public..
+77.239.121.24:3128 | HTTP | DE | Transparent | Senko Digital LLC
+78.141.228.128:1080 | HTTP | GB | Elite | The Constant Company, LLC
+202.58.66.44:8080 | HTTP | ID | Transparent | PT Mamura Inter Media
+160.187.174.249:80 | HTTP | ID | Transparent | PT Netindo Persada Nusant..
 20.118.221.52:3128 | HTTP | US | Transparent | Microsoft Corporation
 110.232.94.49:8080 | HTTP | ID | Transparent | PT SOLUSI ANDALAN KITA
-160.119.69.7:8080 | HTTP | US | Elite | HostUS
-103.157.79.73:8080 | HTTP | ID | Transparent | EASTMEDIA
-121.101.129.103:8080 | HTTP | ID | Transparent | PT SELARAS CITRA TERABIT
-103.190.170.45:8080 | HTTP | ID | Anonymous | PT Ring Media Nusantara
-103.133.223.251:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
-35.225.22.61:80 | HTTP | US | Elite | Google LLC
-195.26.224.49:3128 | HTTP | NL | Elite | Servers Tech Fzco
-131.222.247.69:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-109.205.126.6:8080 | HTTP | LV | Transparent | Kronospan Riga SIA
-91.82.115.159:8080 | HTTP | HU | Transparent | INVITEL Zrt.
-165.225.113.220:3128 | HTTP | SG | Transparent | ZSCALER, INC.
-121.130.199.106:3128 | HTTP | KR | Elite | Korea Telecom
-105.159.148.106:5678 | HTTP | MA | Elite | Office National des Poste..
-83.222.7.205:3128 | HTTP | UZ | Elite | "Uzbektelekom" Joint Stoc..
-178.213.25.221:7890 | HTTP | RU | Elite | DagNet Ltd.
-160.238.65.2:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-146.56.148.222:3128 | HTTP | KR | Transparent | Oracle Corporation
-51.95.13.205:3128 | HTTP | ES | Elite | Amazon.com, Inc.
-103.156.15.129:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-213.220.62.63:3128 | HTTP | NL | Anonymous | YSZ Trading Co. Limited
-161.132.45.74:8080 | HTTP | PE | Transparent | Red Cientifica Peruana
-168.138.147.179:3128 | HTTP | BR | Transparent | Oracle Corporation
-160.238.65.2:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-131.222.251.103:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-46.101.126.84:8888 | HTTP | DE | Elite | DigitalOcean, LLC
-128.90.136.209:3128 | HTTP | NL | Transparent | Powerhouse Management, In..
-103.172.120.180:8080 | HTTP | ID | Transparent | PT Digital Akses Nusantar..
-147.45.152.7:3128 | HTTP | NL | Transparent | Timeweb, LLP
-121.130.199.80:3128 | HTTP | KR | Elite | Korea Telecom
-180.191.231.47:8080 | HTTP | PH | Transparent | Globe Telecom
-103.152.238.49:1080 | HTTP | ID | Transparent | APRIN
-103.81.194.126:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
-103.101.216.66:8080 | HTTP | ID | Transparent | PT Duta Trans Nusantara N..
-145.239.239.82:3128 | HTTP | PL | Transparent | OVH SAS
-223.204.177.198:3128 | HTTP | TH | Transparent | Triple T Broadband Public..
-168.144.75.9:3128 | HTTP | IN | Elite | DigitalOcean
-202.58.66.44:8080 | HTTP | ID | Transparent | PT Mamura Inter Media
-103.162.54.83:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
-188.132.249.199:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-221.156.27.134:3128 | HTTP | KR | Transparent | Korea Telecom
-84.252.70.94:8080 | HTTP | RU | Transparent | Voronezh Telecom LLC
-89.189.64.20:8080 | HTTP | YE | Transparent | AS30873 YemenNet
-182.253.143.137:8080 | HTTP | ID | Transparent | Biznet Networks
-176.12.78.141:3128 | HTTP | KZ | Elite | Netfire TEC
-14.102.70.65:8080 | HTTP | IN | Transparent | World Phone Internet Serv..
-103.124.137.35:3128 | HTTP | ID | Transparent | Global Media Data Prima
-103.97.140.226:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-107.174.3.75:3128 | HTTP | US | Transparent | HostPapa
-173.44.141.173:3128 | HTTP | US | Elite | Eonix Corporation
-103.189.223.166:3128 | HTTP | ID | Transparent | PT. WIKAPLUS GLOBAL NUSAN..
-43.153.149.53:1080 | HTTP | JP | Elite | Shenzhen Tencent Computer..
-165.99.151.252:8080 | HTTP | ID | Transparent | PT Win Akselerasi Net Ind..
-195.62.50.187:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.176.97.110:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
-161.248.190.99:8080 | HTTP | PH | Transparent | Gemstar Cable TV - Agusan..
-49.48.83.198:8080 | HTTP | TH | Anonymous | Triple T Broadband Public..
-89.43.134.52:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-81.169.170.253:3128 | HTTP | DE | Transparent | Strato AG
-103.155.64.221:8080 | HTTP | ID | Transparent | PT Media Access Telematik..
-193.43.140.100:8080 | HTTP | SY | Transparent | Syrian Telecom
-89.111.174.221:8080 | HTTP | RU | Elite | CENTER
-103.55.225.34:8080 | HTTP | ID | Anonymous | PT Gapura Era Digital
-195.62.50.40:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-5.104.87.221:8888 | HTTP | JP | Anonymous | Contabo Asia Private Limi..
-139.28.49.183:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-38.156.72.26:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-190.202.111.206:8080 | HTTP | VE | Transparent | CANTV Servicios, Venezuel..
-146.120.199.193:8080 | HTTP | UA | Transparent | FiberLink Ltd.
-103.125.18.25:8080 | HTTP | ID | Transparent | JAVAMEDIA
-103.162.54.182:8080 | HTTP | ID | Transparent | PT Pratama Asia Globalind..
-150.249.255.91:3128 | HTTP | JP | Anonymous | Sony Network Communicatio..
-45.129.141.143:3128 | HTTP | SK | Transparent | eServer s.r.o.
-102.223.154.177:8080 | HTTP | SL | Transparent | MOIAC
-103.242.104.145:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.166.159.65:8080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
-93.81.236.9:8080 | HTTP | RU | Transparent | Corbina Broadband Omsk
-41.65.103.180:8080 | HTTP | EG | Anonymous | Etisalat Misr Mobile BB
-117.236.124.166:3128 | HTTP | IN | Transparent | BSNL Internet
-150.107.140.238:3128 | HTTP | ID | Anonymous | PT. Jala Lintas Media
-202.154.18.25:8080 | HTTP | ID | Transparent | DIGITNET
-178.238.117.178:8080 | HTTP | RU | Elite | Mastertel ISP
-103.156.14.26:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-176.117.104.163:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.159.96.96:8080 | HTTP | ID | Transparent | PT Jinde Grup Indonesia
-121.130.199.111:3128 | HTTP | KR | Elite | Korea Telecom
-2.27.54.161:1080 | HTTP | NL | Elite | DpkgSoft International Li..
-203.175.103.97:8080 | HTTP | ID | Transparent | PT. Mitra Kita Brilian
-154.18.255.99:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
-103.238.232.126:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
-45.198.20.166:8080 | HTTP | ID | Transparent | PT IKHLAS CIPTA TEKNOLOGI
-212.108.115.2:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-180.191.231.122:8080 | HTTP | PH | Transparent | Globe Telecom
-203.146.80.98:8080 | HTTP | TH | Transparent | Advanced Wireless Network..
-74.48.130.93:1080 | HTTP | US | Elite | Multacom Corporation
-203.150.128.216:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-193.43.159.15:8080 | HTTP | SY | Transparent | Syrian Telecom
-183.98.143.134:8080 | HTTP | KR | Elite | Korea Telecom
-135.125.247.165:8080 | HTTP | DE | Transparent | OVH SAS
-131.222.251.153:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-203.150.113.217:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-165.22.57.158:8080 | HTTP | SG | Elite | DigitalOcean, LLC
-160.238.65.3:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-103.155.199.15:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-149.62.191.202:3128 | HTTP | IT | Transparent | HOST-VDC
-188.132.249.195:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-95.214.123.70:8080 | HTTP | HU | Transparent | Deltakon Kft.
-103.147.247.26:8080 | HTTP | ID | Transparent | PLBNET
-202.58.77.235:8080 | HTTP | ID | Elite | PT Data Buana Nusantara
-103.183.8.222:8080 | HTTP | ID | Transparent | PT Cepat Multi Data
-185.132.178.178:1080 | HTTP | NL | Elite | WorldStream B.V.
-94.158.219.111:3128 | HTTP | LV | Elite | SIA VEESP
-89.189.64.195:8080 | HTTP | YE | Transparent | AS30873 YemenNet
-72.56.84.21:1080 | HTTP | NL | Elite | Timeweb, LLP
-185.191.236.162:3128 | HTTP | CH | Transparent | Grupo Panaglobal 15 S.A
-103.166.158.99:8080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
-131.222.251.204:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-89.43.134.10:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-45.88.0.114:3128 | HTTP | PL | Transparent | Layer IT services
-103.227.243.73:8080 | HTTP | ID | Transparent | NIDS
-185.114.73.2:1080 | HTTP | ES | Elite | First Server Limited
-131.222.251.149:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.155.199.208:8080 | HTTP | ID | Anonymous | PT Lintas Jaringan Nusant..
-103.133.223.21:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
-103.234.35.132:3128 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
-49.229.100.235:8080 | HTTP | TH | Transparent | Advanced Wireless Network..
-150.241.116.41:3128 | HTTP | DE | Elite | DpkgSoft International Li..
-45.59.122.132:80 | HTTP | CH | Transparent | RouterHosting LLC
-147.45.175.151:3128 | HTTP | RU | Transparent | JSC "TIMEWEB"
-38.156.72.51:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-64.188.67.154:1080 | HTTP | DE | Elite | Play2go International Lim..
-185.21.11.140:1080 | HTTP | SE | Elite | Fornex Hosting S.L.
-13.239.120.120:80 | HTTP | AU | Elite | Amazon Technologies Inc.
-91.217.81.92:8080 | HTTP | RU | Elite | First Server Limited
-103.174.122.203:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
-185.230.191.240:3128 | HTTP | FI | Elite | Livi Hosting LTD
-103.253.127.45:8080 | HTTP | ID | Anonymous | PT Media Akses Telematika
-101.255.211.110:8080 | HTTP | ID | Elite | PT Remala Abadi
-157.20.239.19:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
-202.153.4.170:7890 | HTTP | TW | Transparent | Sky Digital Co.
-212.252.73.4:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-45.4.58.222:8080 | HTTP | BR | Transparent | VN TELECOM PROVEDORES A.R..
-103.171.255.170:8080 | HTTP | ID | Transparent | ZKI
-166.1.18.178:7890 | HTTP | US | Elite | Baxet Group Inc
-94.131.83.119:3128 | HTTP | KZ | Transparent | "Cloud Services Kazakhsta..
-171.100.254.137:8080 | HTTP | TH | Transparent | True Internet Corporation..
-103.108.63.91:8080 | HTTP | BD | Transparent | Mostafizur Rahman Patwary
-113.255.59.226:8080 | HTTP | HK | Elite | HGC Global Communications..
-103.39.49.137:3128 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
-109.224.242.6:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-139.28.49.89:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-150.241.106.173:8080 | HTTP | DE | Elite | DpkgSoft International Li..
-3.110.230.219:80 | HTTP | IN | Elite | Amazon Technologies Inc.
-103.196.40.33:8080 | HTTP | ID | Anonymous | PT Sarana Working Akses I..
-45.88.0.111:3128 | HTTP | PL | Transparent | Layer IT services
-45.198.20.173:8080 | HTTP | ID | Transparent | PT IKHLAS CIPTA TEKNOLOGI
-176.117.104.190:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-149.51.42.10:8080 | HTTP | US | Elite | Cogent Communications
-195.19.217.200:3128 | HTTP | RU | Transparent | MTS PJSC
-105.159.148.122:5678 | HTTP | MA | Elite | Office National des Poste..
-103.157.200.126:3128 | HTTP | PK | Anonymous | Logitech Cable (Private) ..
-103.132.53.42:8080 | HTTP | ID | Transparent | PT Adeaksa Indo Jayatama
-121.135.144.141:8080 | HTTP | KR | Elite | Korea Telecom
-176.124.220.172:3128 | HTTP | FI | Transparent | xorek.cloud International..
-131.222.251.91:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-121.135.144.1:8080 | HTTP | KR | Elite | Korea Telecom
-38.150.19.136:8080 | HTTP | ID | Transparent | PT MMS DIGITAL COMMUNICAT..
-103.50.25.59:8080 | HTTP | ID | Transparent | PT. MERAH PUTIH TELEMATIK..
-176.88.166.196:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-103.196.40.37:8080 | HTTP | ID | Anonymous | PT Sarana Working Akses I..
-125.26.27.196:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-185.133.214.90:8080 | HTTP | MM | Transparent | Global Technology Co
-103.171.241.14:8080 | HTTP | ID | Transparent | PT Abs Multimedia Indones..
-103.66.47.25:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
-221.156.27.160:3128 | HTTP | KR | Transparent | Korea Telecom
-181.78.195.44:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-130.61.139.145:3128 | HTTP | DE | Transparent | Oracle Corporation
-167.71.196.178:80 | HTTP | SG | Elite | DigitalOcean, LLC
-103.85.53.78:8080 | HTTP | ID | Transparent | PT Binerkahan Digital Tel..
-89.43.133.190:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-89.43.134.56:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-185.41.152.110:3128 | HTTP | FR | Transparent | global
-185.4.132.222:3128 | HTTP | GR | Transparent | TOPHOST-VPS
-161.132.45.73:8080 | HTTP | PE | Transparent | Red Cientifica Peruana
-110.76.145.119:8080 | HTTP | ID | Transparent | PT Pika Media Komunika
-164.138.205.237:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-161.35.70.36:8888 | HTTP | DE | Elite | DigitalOcean, LLC
-159.223.71.162:8080 | HTTP | SG | Elite | DigitalOcean, LLC
-165.232.146.249:3128 | HTTP | US | Transparent | DigitalOcean, LLC
-164.138.205.232:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.238.232.70:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
-103.126.86.147:8080 | HTTP | ID | Anonymous | PT. Rasi Bintang Perkasa
-212.108.115.92:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-182.253.109.147:8080 | HTTP | ID | Transparent | Biznet Metronet
-194.87.26.83:3128 | HTTP | NL | Elite | Timeweb, LLP
-147.45.124.122:3128 | HTTP | US | Anonymous | ZhouyiSat Communications
-13.212.110.200:80 | HTTP | SG | Elite | Amazon Technologies Inc.
-103.174.122.230:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
-89.43.134.94:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.162.54.85:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
-141.11.210.159:8888 | HTTP | US | Elite | Virtual Machine Solutions..
-116.102.38.65:8080 | HTTP | VN | Elite | Viettel Group
-185.191.236.162:8080 | HTTP | CH | Anonymous | Grupo Panaglobal 15 S.A
-103.155.64.182:8080 | HTTP | ID | Elite | PT Media Access Telematik..
-144.124.227.88:3128 | HTTP | NL | Elite | Servers Tech Fzco
-103.214.251.53:8080 | HTTP | ID | Transparent | PT Bittara Interkoneksi N..
-162.240.154.26:3128 | HTTP | US | Transparent | Unified Layer
-52.119.85.34:8080 | HTTP | US | Transparent | Natural Wireless, LLC
-77.239.121.24:3128 | HTTP | DE | Transparent | Senko Digital LLC
-105.159.148.119:5678 | HTTP | MA | Elite | Office National des Poste..
-157.20.244.28:3128 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+193.43.140.129:8080 | HTTP | SY | Transparent | Syrian Telecom
 103.229.14.83:8080 | HTTP | ID | Transparent | PT Arthaloka Reka Teknolo..
-36.50.92.7:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
 203.150.128.51:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-148.153.56.51:80 | HTTP | US | Anonymous | CDS Global Cloud Co., Ltd
-139.28.49.113:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-34.241.123.181:3128 | HTTP | IE | Elite | Amazon Technologies Inc.
-103.67.80.153:8080 | HTTP | ID | Transparent | PT Komunikasi Profesional..
-46.30.46.133:3128 | HTTP | NL | Transparent | EUROBYTE
-103.127.111.21:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
-103.139.98.179:8080 | HTTP | ID | Transparent | Digital Network Setiawan
-103.189.249.210:8080 | HTTP | ID | Transparent | PT Berkah Media Kusuma Vi..
-51.79.207.21:8080 | HTTP | SG | Transparent | OVH SAS
-103.171.183.153:8080 | HTTP | ID | Transparent | PT Hayat Teknologi Inform..
-13.239.120.120:8080 | HTTP | AU | Elite | Amazon Technologies Inc.
-163.223.78.210:8080 | HTTP | ID | Elite | PT Big Network Indonesia
-120.92.108.86:7890 | HTTP | CN | Elite | Beijing Kingsoft Cloud In..
-38.156.72.27:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-157.230.38.173:3128 | HTTP | SG | Transparent | DigitalOcean, LLC
-185.105.89.187:8888 | HTTP | RU | Anonymous | First Server Limited
-102.0.16.24:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
-112.163.160.93:3128 | HTTP | KR | Elite | Korea Telecom
-154.126.213.5:8080 | HTTP | ZA | Transparent | JENNY Network
-120.28.220.169:8080 | HTTP | PH | Transparent | Globe Telecom
-193.43.159.164:8080 | HTTP | SY | Transparent | Syrian Telecom
-88.218.70.150:3128 | HTTP | KZ | Transparent | Haicom Limited
-89.43.132.169:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-78.13.50.125:80 | HTTP | MX | Elite | Amazon.com
-103.139.98.50:8080 | HTTP | ID | Transparent | Digital Network Setiawan
-103.66.47.66:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
-160.19.19.43:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-103.248.9.85:8080 | HTTP | ID | Transparent | PT Flashnet Inovasi Tekno..
-138.124.108.176:3128 | HTTP | NL | Transparent | Aeza International LTD
+109.224.242.120:8080 | HTTP | TR | Anonymous | High Speed For Internet S..
 103.109.1.115:8080 | HTTP | ID | Transparent | SHANGTEL
-131.222.247.238:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.156.75.161:8080 | HTTP | ID | Transparent | PT Trika Global Media
-103.166.9.194:8888 | HTTP | ID | Anonymous | PT Akses Bersama Sedaya
-38.188.63.111:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
-160.19.19.193:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-203.150.113.44:8080 | HTTP | TH | Transparent | Internet Thailand Company..
-180.191.231.231:8080 | HTTP | PH | Transparent | Globe Telecom
-103.110.11.218:8080 | HTTP | ID | Transparent | PT Citra Jelajah Informat..
-103.139.99.246:8080 | HTTP | ID | Transparent | Digital Network Setiawan
-103.180.126.165:8080 | HTTP | ID | Transparent | PT Alam Media Data
-152.32.132.190:7890 | HTTP | HK | Elite | UCLOUD INFORMATION TECHNO..
-188.132.150.47:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.179.252.81:3128 | HTTP | ID | Transparent | PT Pusaka Kreasi Mandiri
-207.248.113.12:8080 | HTTP | MX | Transparent | Redes y Comunicaciones de..
-105.159.148.70:5678 | HTTP | MA | Elite | Office National des Poste..
-103.222.255.179:8080 | HTTP | ID | Transparent | PT Iktiar Doa Tawakal
-107.173.160.222:1080 | HTTP | US | Elite | HostPapa
-16.51.5.167:1080 | HTTP | AU | Elite | Amazon.com
-179.1.48.42:8080 | HTTP | CO | Transparent | Internexa S.a. E.S.P
-135.125.247.165:3128 | HTTP | DE | Transparent | OVH SAS
-187.111.144.102:8080 | HTTP | BR | Elite | Caezar Provedor de Intern..
-103.193.144.1:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.39.51.178:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
-103.181.255.105:8080 | HTTP | ID | Transparent | PT Giga Digital Nusantara
-159.223.213.91:8888 | HTTP | NL | Elite | DigitalOcean, LLC
-103.162.54.178:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
-188.132.222.169:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-61.91.162.126:8080 | HTTP | TH | Transparent | True Internet Corporation..
-113.160.132.26:8080 | HTTP | VN | Elite | VietNam Post and Telecom ..
-103.39.49.137:3128 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
-58.136.170.252:8080 | HTTP | TH | Transparent | AIS-Fibre
-80.250.165.242:3128 | HTTP | RU | Transparent | LLC Stroysvyazkonsaling
-195.62.50.15:8080 | HTTP | TR | Elite | High Speed For Internet S..
-38.156.72.29:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-91.108.243.203:3128 | HTTP | DE | Elite | DePowered Limited
-101.0.6.154:8080 | HTTP | ID | Transparent | PT. Universal Broadband
-210.87.92.139:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-131.222.251.43:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-146.196.108.81:8080 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
-38.43.158.7:8080 | HTTP | PE | Elite | Nextnet S.A.C
-146.196.98.146:8080 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
-103.181.255.49:8080 | HTTP | ID | Transparent | PT Giga Digital Nusantara
-154.19.39.213:8080 | HTTP | ID | Transparent | PT Lintas Network Solusi
-178.128.24.162:8080 | HTTP | SG | Elite | DigitalOcean, LLC
-113.11.179.170:8080 | HTTP | ID | Transparent | Biznet Networks
-113.176.92.71:3128 | HTTP | VN | Transparent | VNPT
-52.78.193.98:3128 | HTTP | KR | Elite | Amazon Technologies Inc.
-157.20.239.211:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
-103.3.246.71:3128 | HTTP | VN | Transparent | VDATA
-38.156.72.49:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-103.170.196.74:8080 | HTTP | ID | Transparent | SOLUSINET
-103.176.96.81:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
-103.156.15.14:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.156.17.137:8080 | HTTP | ID | Transparent | RSTNET
-103.153.135.116:8080 | HTTP | ID | Transparent | WMINET
-154.27.196.82:8080 | HTTP | MX | Transparent | Cogent Communications
-139.28.49.109:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-212.252.73.43:8080 | HTTP | TR | Transparent | GUNEYDOGUTELEKOM
-103.198.154.151:8888 | HTTP | PK | Transparent | PLAY BROADBAND (PRIVATE) ..
-131.222.251.95:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.144.102.245:8080 | HTTP | ID | Transparent | PANDAWANET
-128.199.247.154:8080 | HTTP | SG | Transparent | DigitalOcean, LLC
-84.47.150.126:1080 | HTTP | RU | Elite | LLC "Nauka-Svyaz"
-160.238.65.3:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-103.126.87.182:8080 | HTTP | ID | Anonymous | PT. Rasi Bintang Perkasa
-176.88.166.171:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-172.104.63.237:3128 | HTTP | SG | Transparent | Akamai Technologies
-195.175.31.222:3128 | HTTP | TR | Elite | Turk Telekomunikasyon A.S
-94.72.109.214:8888 | HTTP | GB | Transparent | Contabo GmbH
-103.51.205.95:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
-212.108.115.41:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-164.92.166.127:3128 | HTTP | DE | Anonymous | DigitalOcean, LLC
-2.27.11.170:3128 | HTTP | US | Elite | Ace Data Centers II
-188.132.249.216:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-86.109.3.24:80 | HTTP | US | Transparent | Equinix (EMEA) Acquisitio..
-131.222.247.152:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-160.238.65.4:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-170.205.39.31:1080 | HTTP | JP | Elite | HostHatch
-185.138.116.150:8080 | HTTP | FR | Elite | Artic Solutions SARL
-200.3.197.65:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
-103.242.105.76:80 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-84.1.150.66:8080 | HTTP | HU | Transparent | Magyar Telekom
-157.66.50.55:8080 | HTTP | ID | Transparent | PT BARAYA TELEKOMUNIKASI ..
-56.155.44.218:80 | HTTP | JP | Elite | Amazon.com, Inc.
-160.238.65.6:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
-164.92.205.88:3128 | HTTP | DE | Elite | DigitalOcean, LLC
-157.20.207.174:8080 | HTTP | ID | Transparent | PT Erajaya Telco Indonesi..
-223.204.177.30:3128 | HTTP | TH | Transparent | Triple T Broadband Public..
-131.222.252.72:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-188.132.150.48:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.193.145.3:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-52.221.190.128:1080 | HTTP | SG | Elite | Amazon.com, Inc.
-41.216.186.85:1080 | HTTP | ID | Elite | FASTHOSTING
-103.167.170.125:8080 | HTTP | ID | Transparent | PT Rajeg Media Telekomuni..
-181.78.195.38:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-103.180.126.170:8080 | HTTP | ID | Transparent | PT Alam Media Data
-91.186.217.84:3128 | HTTP | SE | Transparent | NetCrafters OU
-217.217.249.160:8080 | HTTP | IN | Elite | Contabo Asia Private Limi..
-49.48.51.62:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
-94.131.93.238:3128 | HTTP | KZ | Elite | "Cloud Services Kazakhsta..
-171.236.200.73:8080 | HTTP | VN | Transparent | Viettel Corporation
-202.21.106.35:8080 | HTTP | MN | Transparent | Mobinet LLC
-185.117.152.45:3128 | HTTP | RU | Elite | I-servers LTD
-128.199.20.254:3128 | HTTP | IN | Transparent | DigitalOcean, LLC
-160.238.65.8:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-176.88.166.202:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-89.189.64.139:8080 | HTTP | YE | Transparent | AS30873 YemenNet
-103.147.134.103:8080 | HTTP | ID | Transparent | PT.MURNI MAKMUR ABADI
-52.78.193.98:80 | HTTP | KR | Elite | Amazon Technologies Inc.
-103.190.170.86:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
-221.156.27.138:3128 | HTTP | KR | Transparent | Korea Telecom
-16.163.173.29:1080 | HTTP | HK | Elite | Amazon.com, Inc.
-103.155.198.163:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-95.181.174.211:1080 | HTTP | DE | Elite | Aeza International LTD
-103.76.108.8:8080 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
-164.138.205.68:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-107.174.208.190:3128 | HTTP | US | Transparent | HostPapa
-103.203.232.166:8080 | HTTP | ID | Transparent | PT Inti Data Guna
-86.109.3.28:80 | HTTP | US | Transparent | Equinix (EMEA) Acquisitio..
-103.119.67.27:8080 | HTTP | ID | Transparent | MYREPUBLIC
-194.58.47.219:1080 | HTTP | NL | Elite | SOLLUTIUM EU Sp z.o.o.
-103.166.159.147:8080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
-223.207.103.77:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
-188.132.249.232:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-64.225.64.39:3128 | HTTP | NL | Elite | DigitalOcean, LLC
-103.88.238.3:8080 | HTTP | IN | Elite | Mana Communications
-45.190.84.43:8080 | HTTP | VE | Transparent | TELECOM.CORPORATIVAS TELE..
-195.62.50.17:8080 | HTTP | TR | Elite | High Speed For Internet S..
-103.244.107.2:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-103.190.170.111:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
-101.255.107.130:8080 | HTTP | ID | Transparent | PT Remala Abadi
-89.43.134.34:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-116.90.224.50:8080 | HTTP | NP | Transparent | Websurfer Nepal Communica..
-103.144.18.91:8080 | HTTP | ID | Transparent | PT Gasatek Bintang Nusant..
-46.250.242.134:8080 | HTTP | GB | Transparent | Contabo Asia Private Limi..
-86.53.183.16:1080 | HTTP | GB | Elite | GTT
-5.255.123.43:1080 | HTTP | NL | Elite | The Infrastructure Group ..
-176.88.166.207:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-105.159.148.12:5678 | HTTP | MA | Elite | Office National des Poste..
-103.139.99.238:8080 | HTTP | ID | Transparent | Digital Network Setiawan
-45.119.85.216:3128 | HTTP | VN | Transparent | Long Van System Solution ..
-193.43.159.172:8080 | HTTP | SY | Transparent | Syrian Telecom
-188.132.249.107:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-160.19.41.60:80 | HTTP | IN | Transparent | ATC INFOCOM SOLUTIONS PVT..
-103.31.235.183:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
-103.173.139.10:8080 | HTTP | ID | Transparent | PT Serayu Multi Connectio..
-212.108.115.78:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-81.30.156.115:8080 | HTTP | DE | Transparent | WIIT AG
-121.101.129.61:8080 | HTTP | ID | Transparent | PT SELARAS CITRA TERABIT
-103.152.101.19:8080 | HTTP | PK | Transparent | PLAY BROADBAND (PRIVATE) ..
-89.43.134.62:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-212.252.73.30:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-5.181.178.24:8080 | HTTP | JP | Anonymous | Lain.sh
-95.214.123.54:8080 | HTTP | HU | Transparent | Deltakon Kft.
-103.122.64.163:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
-176.117.104.167:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-43.198.22.151:8080 | HTTP | HK | Elite | Amazon.com, Inc.
-182.253.143.141:8080 | HTTP | ID | Transparent | Biznet Networks
-157.66.36.130:8080 | HTTP | ID | Transparent | PT Trik Media Data
-164.138.205.241:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.231.75.209:3128 | HTTP | TR | Elite | WorkTitans B.V.
-103.97.140.110:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-54.253.167.61:80 | HTTP | AU | Elite | Amazon.com, Inc.
-12.39.6.39:8080 | HTTP | US | Transparent | AT&T Enterprises, LLC
-103.31.235.90:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
-131.222.251.92:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.247.14.38:8080 | HTTP | ID | Transparent | TERABIT
-185.145.124.173:8080 | HTTP | RU | Transparent | Sky Engineering LLC
-195.158.10.99:8080 | HTTP | UZ | Transparent | "Uzbektelekom" Joint Stoc..
-49.48.83.198:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
-146.196.108.206:80 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
-202.58.77.195:8080 | HTTP | ID | Anonymous | PT Data Buana Nusantara
-103.152.238.197:1080 | HTTP | ID | Transparent | APRIN
-45.88.0.114:3128 | HTTP | PL | Anonymous | Layer IT services
-103.179.252.74:3128 | HTTP | ID | Transparent | PT Pusaka Kreasi Mandiri
-161.97.184.191:8080 | HTTP | FR | Elite | Contabo GmbH
-103.140.25.230:8080 | HTTP | BD | Anonymous | Ali Akber
-212.252.39.100:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-103.174.122.208:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
-103.139.99.222:8080 | HTTP | ID | Transparent | Digital Network Setiawan
-188.132.249.231:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.156.14.13:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.193.145.46:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-163.223.150.129:8080 | HTTP | ID | Transparent | PT Microcyber Data Indone..
-103.173.139.221:8080 | HTTP | ID | Transparent | PT Serayu Multi Connectio..
-45.88.0.116:3128 | HTTP | PL | Transparent | Layer IT services
-131.222.251.86:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-176.88.166.174:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-101.255.32.42:8080 | HTTP | ID | Transparent | PT Remala Abadi
-194.124.36.130:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
-103.156.248.98:8080 | HTTP | ID | Transparent | Trans Media Telekomunikas..
-149.86.140.244:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
-103.172.121.28:8080 | HTTP | ID | Transparent | PT Digital Akses Nusantar..
-35.183.8.131:8080 | HTTP | CA | Elite | Amazon Technologies Inc.
-103.56.80.61:8080 | HTTP | ID | Transparent | PT Jaringan Citra Mandiri
-45.88.0.99:3128 | HTTP | PL | Transparent | Layer IT services
-157.20.128.186:8080 | HTTP | ID | Transparent | PT Citra Meta Data
-223.205.91.218:8080 | HTTP | TH | Anonymous | Triple T Broadband Public..
-164.138.205.67:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-15.204.151.149:3128 | HTTP | US | Transparent | OVH SAS
-167.71.196.28:8080 | HTTP | SG | Elite | DigitalOcean, LLC
-45.130.146.154:1080 | HTTP | RU | Elite | LLC Baxet
-103.234.35.141:8080 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
-187.86.59.122:80 | HTTP | BR | Elite | Opcao Telecom
-103.222.255.214:8080 | HTTP | ID | Transparent | PT Iktiar Doa Tawakal
-139.28.49.214:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-154.58.138.131:8080 | HTTP | ID | Transparent | MEGADATA-ISP
-103.81.110.181:8080 | HTTP | ID | Elite | PT Fiber Data Nusantara
-45.88.0.113:3128 | HTTP | PL | Transparent | Layer IT services
-157.10.97.185:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-210.87.74.207:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-103.82.23.221:8888 | HTTP | VN | Elite | Vietnam Posts and Telecom..
-103.193.144.16:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-144.31.27.49:1080 | HTTP | FI | Elite | U1 DIGITAL SERVICES LTD
-119.82.242.6:8080 | HTTP | ID | Transparent | Indonesia Network Informa..
-103.51.205.101:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
-157.20.239.235:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
-103.160.40.250:8080 | HTTP | ID | Anonymous | PT Wistel Teknologi Solus..
-168.138.175.189:7890 | HTTP | SG | Elite | Oracle Corporation
-80.250.165.91:80 | HTTP | RU | Transparent | LLC Stroysvyazkonsaling
-89.43.132.215:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-45.88.0.115:3128 | HTTP | PL | Anonymous | Layer IT services
-103.85.53.73:8080 | HTTP | ID | Transparent | PT Binerkahan Digital Tel..
-102.0.21.22:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
-103.81.194.124:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
-95.214.123.140:8080 | HTTP | HU | Transparent | Deltakon Kft.
-147.45.225.179:3128 | HTTP | NL | Transparent | Timeweb, LLP
-103.193.145.30:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-176.100.39.55:3128 | HTTP | DE | Elite | Florian Kolb
-108.136.235.102:8080 | HTTP | ID | Elite | Amazon.com, Inc.
-45.88.0.98:3128 | HTTP | PL | Transparent | Layer IT services
-103.176.96.94:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
-171.247.171.210:8080 | HTTP | VN | Elite | Viettel Corporation
-85.198.229.194:80 | HTTP | PL | Transparent | Sileman Sp. z o.o.
-160.238.65.7:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-2.57.218.130:8080 | HTTP | GE | Transparent | Multisoft LLC
-103.155.198.73:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-176.88.65.187:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-157.15.82.92:8080 | HTTP | ID | Transparent | PT Delapan Broadband Inte..
-161.248.176.2:8080 | HTTP | IN | Transparent | SNA INTERNET PRIVATE LIMI..
-103.193.145.29:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-103.193.145.41:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
-176.124.222.8:1080 | HTTP | RU | Elite | Aeza Group LLC
-103.68.214.175:8080 | HTTP | ID | Transparent | PT Media Grasi Internet
-103.13.192.77:8080 | HTTP | BD | Transparent | Md Al Amin
-195.158.8.123:3128 | HTTP | UZ | Elite | "Uzbektelekom" Joint Stoc..
-103.191.196.41:8080 | HTTP | ID | Transparent | PT Pangkalan Lintas Data
-216.180.127.45:1080 | HTTP | US | Elite | Host4nerd LLC
-119.47.93.85:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
-167.250.56.81:8080 | HTTP | BR | Transparent | Lucaroni Telecom Ltda ME
-103.134.242.161:8080 | HTTP | BD | Elite | Winer Communication
-45.186.6.104:3128 | HTTP | EC | Transparent | Perez Tito Julio Cesar
-85.239.59.19:1080 | HTTP | RU | Elite | JSC "TIMEWEB"
-103.124.137.189:3128 | HTTP | ID | Transparent | Global Media Data Prima
-190.60.60.149:8080 | HTTP | CO | Transparent | IFX NETWORKS COLOMBIA
-109.224.242.151:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-193.23.194.147:3128 | HTTP | NL | Elite | Play2go International Lim..
-103.23.98.65:8080 | HTTP | ID | Transparent | PT Sakti Media Telekomuni..
-194.44.177.225:8080 | HTTP | UA | Transparent | LLC EKSINTECH
-45.88.0.117:3128 | HTTP | PL | Transparent | Layer IT services
-170.106.137.214:7890 | HTTP | US | Elite | Tencent Cloud Computing (..
-181.78.195.40:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
-5.63.111.238:8080 | HTTP | KZ | Elite | JSC Kazakhtelecom
-157.66.50.37:8080 | HTTP | ID | Transparent | PT BARAYA TELEKOMUNIKASI ..
-139.28.49.7:8080 | HTTP | SY | Transparent | High Speed For Internet S..
-103.238.232.38:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
-118.193.44.243:3128 | HTTP | HK | Elite | UCLOUD INFORMATION TECHNO..
-103.238.232.98:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
-196.216.133.215:8080 | HTTP | ZA | Transparent | HERO TELECOMS (PTY) LTD
-188.132.249.202:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-157.20.128.29:8080 | HTTP | ID | Transparent | PT Citra Meta Data
-195.62.50.18:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-213.139.211.235:3128 | HTTP | RU | Transparent | BEGET.RU
-45.153.231.229:8080 | HTTP | RU | Elite | UFO Hosting LLC
-103.51.205.185:1080 | HTTP | ID | Transparent | Lintas Data Prima, PT
-103.176.97.108:3128 | HTTP | ID | Transparent | PT Global Sarana Elektron..
-103.244.107.89:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-15.204.151.147:3128 | HTTP | US | Transparent | OVH SAS
-103.93.93.239:1080 | HTTP | ID | Anonymous | MYRISE
-1.20.248.184:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
-103.244.107.153:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
-212.252.73.24:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+223.204.177.198:3128 | HTTP | TH | Transparent | Triple T Broadband Public..
+35.183.8.131:80 | HTTP | CA | Elite | Amazon Technologies Inc.
 113.192.30.94:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-43.198.22.151:1080 | HTTP | HK | Elite | Amazon.com, Inc.
-160.238.65.5:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
-102.0.17.48:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
-103.56.80.43:3128 | HTTP | ID | Elite | PT Jaringan Citra Mandiri
-160.19.19.18:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
-103.155.64.220:8080 | HTTP | ID | Transparent | PT Media Access Telematik..
-223.204.177.2:3128 | HTTP | TH | Transparent | Triple T Broadband Public..
-131.222.251.97:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-163.61.112.247:8080 | HTTP | ID | Transparent | PT VESAKHA SECEPAT KILAT
-160.191.180.121:80 | HTTP | ID | Transparent | PT.Global Media Data Prim..
-132.226.235.199:1080 | HTTP | KR | Elite | Oracle Corporation
-139.255.10.38:8080 | HTTP | ID | Transparent | PT. LINKNET
-103.153.149.138:8080 | HTTP | ID | Transparent | JARINGANKU
-45.88.0.117:3128 | HTTP | PL | Anonymous | Layer IT services
-188.132.249.171:8080 | HTTP | TR | Transparent | High Speed For Internet S..
-103.156.233.57:8080 | HTTP | ID | Transparent | MULTIMEDIALINKTECH
-168.222.254.88:3128 | HTTP | DE | Elite | Intezio Worldwide Limited
-157.20.239.21:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
-155.212.131.205:8080 | HTTP | RU | Elite | Beget LLC
-92.113.149.172:1080 | HTTP | DK | Elite | Webdock.io ApS
-58.27.196.202:8080 | HTTP | PK | Transparent | Wateen Telecom Limited
-103.97.140.71:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
-138.68.20.38:3128 | HTTP | US | Transparent | DigitalOcean, LLC
+113.176.92.71:3128 | HTTP | VN | Transparent | VNPT
+182.253.151.4:3128 | HTTP | ID | Transparent | BIZNET
+103.119.67.27:8080 | HTTP | ID | Transparent | MYREPUBLIC
+103.203.232.69:1080 | HTTP | ID | Transparent | PT Inti Data Guna
+103.116.82.148:8080 | HTTP | ID | Transparent | PT SSR Digital Informatik..
+103.134.242.161:8080 | HTTP | BD | Elite | Winer Communication
+45.198.20.166:8080 | HTTP | ID | Transparent | PT IKHLAS CIPTA TEKNOLOGI
+103.108.63.182:8080 | HTTP | BD | Transparent | Mostafizur Rahman Patwary
+109.224.242.21:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+188.132.249.107:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+160.191.130.243:8080 | HTTP | ID | Transparent | PT Jaringan Lintas Mariti..
+45.88.0.114:3128 | HTTP | PL | Anonymous | Layer IT services
+89.111.174.221:8080 | HTTP | RU | Elite | CENTER
+103.189.250.47:8080 | HTTP | ID | Elite | PT Pandawa Lima Java Netw..
+157.10.184.115:8080 | HTTP | ID | Transparent | PT Internet Tjepat Indone..
+212.252.73.4:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
 103.203.234.43:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
-176.88.166.165:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
-51.95.13.205:80 | HTTP | ES | Elite | Amazon.com, Inc.
-116.203.112.97:3128 | HTTP | DE | Transparent | Hetzner Online GmbH
-113.11.179.143:8080 | HTTP | ID | Transparent | Biznet Networks
+203.150.113.217:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.203.234.147:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
+160.187.174.114:8080 | HTTP | ID | Transparent | PT Netindo Persada Nusant..
+154.19.39.213:8080 | HTTP | ID | Transparent | PT Lintas Network Solusi
+15.204.151.145:3128 | HTTP | US | Transparent | OVH SAS
+164.138.205.237:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.172.121.51:8080 | HTTP | ID | Transparent | PT Digital Akses Nusantar..
+160.250.226.94:8080 | HTTP | ID | Transparent | PT Apci Network Solutions
+157.20.239.211:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
+62.60.237.68:8080 | HTTP | FI | Elite | Aeza International LTD
+203.150.113.246:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+118.193.44.243:3128 | HTTP | HK | Elite | UCLOUD INFORMATION TECHNO..
+103.55.225.34:8080 | HTTP | ID | Anonymous | PT Gapura Era Digital
+103.193.145.41:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+182.253.151.4:80 | HTTP | ID | Transparent | BIZNET
+38.156.72.26:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.140.25.125:8080 | HTTP | BD | Transparent | Ali Akber
+188.132.150.253:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.166.158.99:8080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
+105.159.148.73:5678 | HTTP | MA | Elite | Office National des Poste..
+180.191.233.230:8080 | HTTP | PH | Transparent | Globe Telecom
+139.28.49.214:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.244.107.1:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+103.190.170.45:8080 | HTTP | ID | Anonymous | PT Ring Media Nusantara
+103.177.10.253:8080 | HTTP | ID | Transparent | PT Nalendra Gigantara Med..
+47.85.51.197:1080 | HTTP | US | Elite | Alibaba.com LLC
+103.192.174.154:8080 | HTTP | ID | Transparent | PT JKB Telematika Indones..
+103.248.9.85:8080 | HTTP | ID | Transparent | PT Flashnet Inovasi Tekno..
+160.238.65.5:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+103.158.97.83:8080 | HTTP | ID | Transparent | PT Dinar Wahana Gemilang
+163.223.78.210:8080 | HTTP | ID | Elite | PT Big Network Indonesia
+124.121.2.230:8080 | HTTP | TH | Transparent | TRUEBB
+45.88.0.99:3128 | HTTP | PL | Transparent | Layer IT services
+195.62.50.22:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+131.222.251.153:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+195.62.50.15:8080 | HTTP | TR | Elite | High Speed For Internet S..
+45.186.6.104:3128 | HTTP | EC | Transparent | Perez Tito Julio Cesar
+210.87.125.57:8080 | HTTP | ID | Transparent | CV Brawijaya Giga Network
+103.171.254.26:8080 | HTTP | ID | Transparent | PT Zona Kolektif Indonesi..
+203.175.103.123:8080 | HTTP | ID | Transparent | PT. Mitra Kita Brilian
+38.46.233.146:8080 | HTTP | ID | Transparent | PT CYB Media Group
+103.155.199.185:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+139.28.49.207:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+34.85.118.216:3128 | HTTP | JP | Transparent | Google LLC
+103.85.53.78:8080 | HTTP | ID | Transparent | PT Binerkahan Digital Tel..
+209.14.68.68:8888 | HTTP | BR | Transparent | Qnax Ltda
+177.135.190.101:8080 | HTTP | BR | Transparent | TELEFÔNICA BRASIL S.A
+89.43.134.52:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+131.222.210.155:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+200.218.236.2:8080 | HTTP | BR | Elite | X99 INTERNET LTDA.
+103.183.8.222:8080 | HTTP | ID | Transparent | PT Cepat Multi Data
+203.150.113.11:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+2.27.11.170:3128 | HTTP | US | Elite | Ace Data Centers II
+109.224.242.151:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+5.181.178.111:8080 | HTTP | JP | Anonymous | Lain.sh
+102.0.22.238:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
+131.222.252.14:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+89.43.133.200:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+162.240.154.26:3128 | HTTP | US | Transparent | Unified Layer
+5.63.111.238:8080 | HTTP | KZ | Elite | JSC Kazakhtelecom
+160.19.41.60:80 | HTTP | IN | Transparent | ATC INFOCOM SOLUTIONS PVT..
+203.29.26.63:8080 | HTTP | ID | Transparent | PT. Java Digital Nusantar..
+139.28.49.235:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+171.236.200.73:80 | HTTP | VN | Transparent | Viettel Corporation
+103.136.171.145:8080 | HTTP | ID | Elite | PT UNZA VITALI
+212.108.115.117:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+146.120.199.193:80 | HTTP | UA | Transparent | FiberLink Ltd.
+45.88.0.114:3128 | HTTP | PL | Transparent | Layer IT services
+212.108.115.146:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+38.180.2.107:3128 | HTTP | BG | Transparent | M247 Europe SRL
+89.189.64.139:8080 | HTTP | YE | Transparent | AS30873 YemenNet
+139.255.10.38:8080 | HTTP | ID | Transparent | PT. LINKNET
+103.242.104.60:8080 | HTTP | ID | Anonymous | PT Lintas Jaringan Nusant..
+128.0.7.12:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+160.238.65.3:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+18.170.25.193:80 | HTTP | GB | Elite | Amazon Technologies Inc.
+103.133.223.21:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
+103.179.183.221:8080 | HTTP | ID | Transparent | SINARKENCANA
+103.190.170.144:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
+66.80.0.214:1080 | HTTP | US | Elite | Bunny Communications
+184.82.170.148:8080 | HTTP | TH | Transparent | AIS-Fibre
+103.39.51.207:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
+185.191.236.162:3128 | HTTP | CH | Transparent | Grupo Panaglobal 15 S.A
+200.3.197.53:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
+36.50.92.7:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
+103.179.182.51:8080 | HTTP | ID | Transparent | PT Cahaya Solusindo Inter..
+203.146.80.98:8080 | HTTP | TH | Transparent | Advanced Wireless Network..
+103.162.221.227:8080 | HTTP | ID | Transparent | PT Trisari Data Indonusa
+86.53.183.16:1080 | HTTP | GB | Elite | GTT
+103.242.104.145:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+58.147.186.79:8080 | HTTP | ID | Transparent | PT. Transhybrid Communica..
+159.65.127.139:8888 | HTTP | DE | Anonymous | DigitalOcean, LLC
+203.150.128.235:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+193.43.159.167:8080 | HTTP | SY | Transparent | Syrian Telecom
+200.3.197.105:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
+15.161.59.54:80 | HTTP | IT | Elite | Amazon.com, Inc.
+89.43.134.47:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.229.14.84:8080 | HTTP | ID | Transparent | PT Arthaloka Reka Teknolo..
+203.150.113.44:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+131.222.251.91:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.196.40.37:8080 | HTTP | ID | Anonymous | PT Sarana Working Akses I..
+40.192.4.68:3128 | HTTP | IN | Transparent | Amazon.com, Inc.
+135.125.247.165:8080 | HTTP | DE | Transparent | OVH SAS
+182.53.202.208:8080 | HTTP | TH | Anonymous | TOT Public Company Limite..
+195.62.50.18:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.166.159.65:8080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
+180.191.231.231:8080 | HTTP | PH | Transparent | Globe Telecom
+113.88.58.86:7890 | HTTP | CN | Elite | Chinanet
+103.190.170.160:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
+60.249.94.208:3128 | HTTP | TW | Anonymous | Chunghwa Telecom Co., Ltd..
+200.3.197.65:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
+103.46.4.95:8080 | HTTP | ID | Transparent | PT Akses Sentral Teknolog..
+131.222.247.69:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+161.248.190.99:8080 | HTTP | PH | Transparent | Gemstar Cable TV - Agusan..
+201.144.20.238:3128 | HTTP | MX | Transparent | UNINET
+160.187.174.227:8080 | HTTP | ID | Transparent | PT Netindo Persada Nusant..
+84.51.0.55:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+92.113.149.172:8080 | HTTP | DK | Elite | Webdock.io ApS
+157.66.50.147:8080 | HTTP | ID | Transparent | PT BARAYA TELEKOMUNIKASI ..
+103.156.15.129:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+131.222.250.230:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.234.35.166:8080 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
+103.122.66.80:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
+103.127.111.213:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+103.51.205.94:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
+176.117.104.186:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+182.253.143.10:8080 | HTTP | ID | Transparent | Biznet Networks
+103.229.14.82:8080 | HTTP | ID | Transparent | PT Arthaloka Reka Teknolo..
+38.211.24.97:8080 | HTTP | ID | Transparent | PT Putra Garsel Interkone..
+103.222.255.214:8080 | HTTP | ID | Transparent | PT Iktiar Doa Tawakal
+188.132.249.216:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+172.104.63.237:3128 | HTTP | SG | Transparent | Akamai Technologies
+34.101.184.164:3128 | HTTP | ID | Anonymous | Google LLC
+170.106.137.214:7890 | HTTP | US | Elite | Tencent Cloud Computing (..
+178.46.144.14:8080 | HTTP | RU | Transparent | OJSC uralsvyazinform
+137.59.47.73:3128 | HTTP | VN | Transparent | MOBIFONECNTT
+130.61.30.221:8080 | HTTP | DE | Transparent | Oracle Corporation
+45.88.0.111:3128 | HTTP | PL | Anonymous | Layer IT services
+103.126.86.99:8080 | HTTP | ID | Transparent | PT. Rasi Bintang Perkasa
+185.225.40.122:8080 | HTTP | SY | Transparent | sy-samaweb
+154.18.255.99:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
+102.23.234.118:8080 | HTTP | ZA | Transparent | JENNY INTERNET (PTY) LTD
+185.4.132.222:3128 | HTTP | GR | Transparent | TOPHOST-VPS
+176.88.166.162:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+89.43.134.34:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.244.107.121:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+176.88.166.171:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+103.110.11.218:8080 | HTTP | ID | Transparent | PT Citra Jelajah Informat..
+185.196.182.22:8080 | HTTP | AL | Transparent | shqiponjaisp.al LLC
+16.51.5.167:3128 | HTTP | AU | Elite | Amazon.com
+103.176.96.81:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
+155.212.188.205:8080 | HTTP | RU | Elite | Beget LLC
+103.158.62.136:8080 | HTTP | BD | Transparent | SEARCH IT
+202.21.106.35:8080 | HTTP | MN | Transparent | Mobinet LLC
+181.78.195.42:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+103.242.105.76:80 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+43.252.106.66:8080 | HTTP | ID | Transparent | PT Lintas Data Prima
+70.61.188.34:3128 | HTTP | US | Transparent | Spectrum
+103.140.25.230:8080 | HTTP | BD | Anonymous | Ali Akber
+103.180.118.207:1080 | HTTP | ID | Elite | PT Persada Data Multimedi..
+160.19.19.18:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+5.129.192.173:3128 | HTTP | RU | Elite | Adman LLC
+103.234.35.132:3128 | HTTP | ID | Transparent | PT. EXABIT GROUP NETWORK
+103.39.51.148:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
+176.117.104.178:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+190.60.60.149:8080 | HTTP | CO | Transparent | IFX NETWORKS COLOMBIA
+34.101.184.164:3128 | HTTP | ID | Transparent | Google LLC
+85.239.59.19:1080 | HTTP | RU | Elite | JSC "TIMEWEB"
+103.76.109.2:8080 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
+157.20.207.174:8080 | HTTP | ID | Transparent | PT Erajaya Telco Indonesi..
+89.43.134.62:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+202.154.18.25:8080 | HTTP | ID | Transparent | DIGITNET
+203.150.113.244:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+213.220.62.63:3128 | HTTP | NL | Anonymous | YSZ Trading Co. Limited
+159.203.220.84:3128 | HTTP | US | Transparent | DigitalOcean, LLC
+103.189.223.166:3128 | HTTP | ID | Transparent | PT. WIKAPLUS GLOBAL NUSAN..
+105.159.148.165:5678 | HTTP | MA | Elite | Office National des Poste..
+121.135.144.141:8080 | HTTP | KR | Elite | Korea Telecom
+115.178.53.117:8080 | HTTP | ID | Transparent | NOC SIMAYA
+141.136.63.126:8080 | HTTP | VE | Transparent | FRONTERA
+103.153.191.10:8080 | HTTP | ID | Transparent | WANET
+103.244.107.150:8080 | HTTP | ID | Anonymous | PT Sahabat Fiber Indonesi..
+163.61.112.247:8080 | HTTP | ID | Transparent | PT VESAKHA SECEPAT KILAT
+181.78.194.241:3128 | HTTP | EC | Transparent | Ufinet Panama S.A.
+222.228.171.92:8080 | HTTP | JP | Transparent | ARTERIA Networks Corporat..
+103.85.53.64:8080 | HTTP | ID | Transparent | PT Binerkahan Digital Tel..
+103.174.122.230:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
+139.28.49.7:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.176.97.110:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
+131.222.247.152:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+105.159.148.122:5678 | HTTP | MA | Elite | Office National des Poste..
+45.88.0.115:3128 | HTTP | PL | Transparent | Layer IT services
+149.86.144.211:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
+89.43.132.218:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+147.45.175.151:3128 | HTTP | RU | Transparent | JSC "TIMEWEB"
+103.76.108.8:8080 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
+223.204.177.2:3128 | HTTP | TH | Transparent | Triple T Broadband Public..
 157.20.239.211:80 | HTTP | ID | Transparent | PT Era Network Indonesia
-43.163.127.208:1080 | HTTP | SG | Elite | Shenzhen Tencent Computer..
-103.203.234.42:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
+103.166.182.144:3128 | HTTP | VN | Transparent | ZOZO
+8.219.97.248:80 | HTTP | SG | Elite | Alibaba Cloud (Singapore)..
+176.88.166.163:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+101.255.107.129:8080 | HTTP | ID | Transparent | PT Remala Abadi
+103.51.205.101:1080 | HTTP | ID | Elite | Lintas Data Prima, PT
+103.125.117.54:8080 | HTTP | ID | Transparent | PT Baraya Telematika Nusa..
+102.0.21.22:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
+103.122.64.163:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
+145.239.239.82:3128 | HTTP | PL | Transparent | OVH SAS
+212.108.115.140:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+15.204.151.142:3128 | HTTP | US | Transparent | OVH SAS
+212.108.115.41:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+49.48.51.62:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
+103.244.107.105:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+1.20.248.184:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+213.32.85.26:3128 | HTTP | FR | Transparent | OVH SAS
+115.136.121.54:3128 | HTTP | KR | Transparent | LG POWERCOMM
+103.81.194.124:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
+51.84.100.37:80 | HTTP | IL | Elite | Amazon.com, Inc.
+103.109.173.170:80 | HTTP | ID | Transparent | PT Cyberindo Aditama
+81.26.179.64:1080 | HTTP | RU | Elite | OOO ComLine
+103.155.199.67:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+154.18.255.137:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
+45.59.122.132:80 | HTTP | CH | Transparent | RouterHosting LLC
+188.132.222.154:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+131.222.252.70:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+43.252.238.138:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
+101.0.6.154:8080 | HTTP | ID | Transparent | PT. Universal Broadband
+103.193.145.59:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+103.178.86.178:8080 | HTTP | ID | Anonymous | PT Adhi Pradana Makayasa
+188.132.222.169:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.155.196.20:8080 | HTTP | ID | Transparent | JEMBATANDATA
+103.157.200.126:3128 | HTTP | PK | Transparent | Logitech Cable (Private) ..
+194.31.87.77:3128 | HTTP | TR | Transparent | SFCTEK Bilisim Yazilim ve..
+128.199.20.254:3128 | HTTP | IN | Transparent | DigitalOcean, LLC
+103.244.107.89:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+103.191.58.210:8080 | HTTP | ID | Transparent | Panjalu Sarana Data Indon..
+103.76.109.203:80 | HTTP | ID | Transparent | PT Mahawira Nusantara Gru..
+150.107.140.238:3128 | HTTP | ID | Anonymous | PT. Jala Lintas Media
+95.214.123.140:8080 | HTTP | HU | Transparent | Deltakon Kft.
+15.204.151.149:3128 | HTTP | US | Transparent | OVH SAS
+157.66.16.52:8080 | HTTP | ID | Transparent | PT Mitra Mandiri Network
+194.147.90.23:3128 | HTTP | RU | Transparent | AZERTA.RU Hosting LLC
+103.56.80.61:8080 | HTTP | ID | Transparent | PT Jaringan Citra Mandiri
+105.159.148.70:5678 | HTTP | MA | Elite | Office National des Poste..
+195.62.50.212:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.189.249.210:8080 | HTTP | ID | Transparent | PT Berkah Media Kusuma Vi..
+103.120.76.82:8080 | HTTP | ID | Transparent | PT Haci Telekomunikasi In..
+171.43.65.238:7890 | HTTP | CN | Elite | Chinanet
+132.226.235.199:1080 | HTTP | KR | Elite | Oracle Corporation
+15.204.151.148:3128 | HTTP | US | Transparent | OVH SAS
+166.1.18.178:7890 | HTTP | US | Elite | Baxet Group Inc
+195.62.50.4:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.156.15.14:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+5.188.27.44:3128 | HTTP | RU | Transparent | VPS network
+103.94.251.93:8080 | HTTP | ID | Transparent | PT Centronet Data Indones..
+131.222.251.107:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.172.23.182:1080 | HTTP | ID | Transparent | PT Tujuhlangit Lintas Nus..
+103.156.14.26:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+200.3.197.85:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
+103.179.252.17:3128 | HTTP | ID | Transparent | PT Pusaka Kreasi Mandiri
+182.253.151.4:8080 | HTTP | ID | Transparent | BIZNET
+105.159.148.106:5678 | HTTP | MA | Elite | Office National des Poste..
+103.153.149.139:8080 | HTTP | ID | Anonymous | JARINGANKU
+160.19.146.87:8080 | HTTP | ID | Transparent | PT Taska Sarana Nusantara
+103.71.22.8:3128 | HTTP | FI | Transparent | I-servers LTD
+103.244.107.101:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+172.236.145.31:7890 | HTTP | SG | Elite | Akamai Technologies, Inc.
+45.81.130.11:8888 | HTTP | US | Elite | Zenlayer Inc
+103.140.25.213:8080 | HTTP | BD | Transparent | Ali Akber
+163.223.150.21:8080 | HTTP | ID | Transparent | PT Microcyber Data Indone..
+103.244.107.253:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+144.31.27.49:1080 | HTTP | FI | Elite | U1 DIGITAL SERVICES LTD
+187.216.141.46:3128 | HTTP | MX | Transparent | Uninet S.A. de C.V.
+154.64.232.149:7890 | HTTP | US | Elite | NetLab Global
+163.223.116.209:8080 | HTTP | ID | Transparent | PT Signall Network Nusant..
+103.124.137.184:3128 | HTTP | ID | Transparent | Global Media Data Prima
+103.156.248.164:8080 | HTTP | ID | Transparent | Trans Media Telekomunikas..
+103.193.145.155:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+163.223.116.86:8080 | HTTP | ID | Transparent | PT Signall Network Nusant..
+164.92.166.127:3128 | HTTP | DE | Anonymous | DigitalOcean, LLC
+103.39.51.148:8080 | HTTP | UN | Transparent | Lookup Error
+88.218.70.150:3128 | HTTP | KZ | Transparent | Haicom Limited
+157.20.128.186:8080 | HTTP | ID | Transparent | PT Citra Meta Data
+74.48.130.93:1080 | HTTP | US | Elite | Multacom Corporation
+165.22.57.158:8080 | HTTP | SG | Elite | DigitalOcean, LLC
+12.39.6.39:8080 | HTTP | US | Transparent | AT&T Enterprises, LLC
+194.124.36.4:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.172.23.162:1080 | HTTP | ID | Transparent | PT Tujuhlangit Lintas Nus..
+160.19.19.7:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+89.43.132.169:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+213.220.62.62:3128 | HTTP | NL | Transparent | YSZ Trading Co. Limited
+148.153.56.51:80 | HTTP | US | Anonymous | CDS Global Cloud Co., Ltd
+20.204.228.118:8080 | HTTP | IN | Anonymous | Microsoft Corporation
+119.159.251.187:80 | HTTP | PK | Anonymous | Pakistan Telecommuication..
+103.244.107.237:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+154.64.232.35:8080 | HTTP | US | Elite | NetLab Global
+103.46.186.140:8080 | HTTP | ID | Transparent | PT Air Lintas Komunikasi
+103.156.16.189:8080 | HTTP | ID | Transparent | RSTNET
+131.222.251.149:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+115.75.184.174:8080 | HTTP | VN | Transparent | VIETELxdsl
+103.155.199.208:8080 | HTTP | ID | Anonymous | PT Lintas Jaringan Nusant..
+185.230.191.240:3128 | HTTP | FI | Elite | Livi Hosting LTD
+195.200.31.45:3128 | HTTP | NL | Elite | MISTRAL
+218.153.163.156:8080 | HTTP | KR | Elite | Korea Telecom
+161.97.184.191:8080 | HTTP | FR | Elite | Contabo GmbH
+190.202.111.206:8080 | HTTP | VE | Transparent | CANTV Servicios, Venezuel..
+13.239.120.120:80 | HTTP | AU | Elite | Amazon Technologies Inc.
+46.101.95.183:8888 | HTTP | GB | Elite | DigitalOcean, LLC
+103.238.232.38:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
+159.223.71.162:8080 | HTTP | SG | Elite | DigitalOcean, LLC
+103.120.76.45:8080 | HTTP | ID | Transparent | PT Haci Telekomunikasi In..
+147.161.246.39:80 | HTTP | CH | Transparent | Zscaler Switzerland GmbH
+43.198.22.151:1080 | HTTP | HK | Elite | Amazon.com, Inc.
+45.129.141.174:3128 | HTTP | SK | Transparent | eServer s.r.o.
+165.232.146.249:3128 | HTTP | US | Transparent | DigitalOcean, LLC
+185.225.40.70:8080 | HTTP | SY | Transparent | sy-samaweb
+223.204.177.30:3128 | HTTP | TH | Transparent | Triple T Broadband Public..
+15.228.88.39:8080 | HTTP | BR | Elite | Amazon.com, Inc.
+103.85.53.73:8080 | HTTP | ID | Transparent | PT Binerkahan Digital Tel..
+160.191.180.121:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+103.160.40.250:8080 | HTTP | ID | Anonymous | PT Wistel Teknologi Solus..
+139.28.49.90:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+149.51.42.10:3128 | HTTP | US | Elite | Cogent Communications
+176.108.244.62:8080 | HTTP | RU | Elite | "Cloud Technologies" LLC ..
+176.88.166.165:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+103.71.162.41:8080 | HTTP | ID | Transparent | PT. Menaksopal Link Nusan..
+58.136.170.252:8080 | HTTP | TH | Transparent | AIS-Fibre
+103.93.93.191:8080 | HTTP | ID | Transparent | MYRISE
+119.47.93.83:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
+56.155.44.218:3128 | HTTP | JP | Elite | Amazon.com, Inc.
+45.88.0.117:3128 | HTTP | PL | Transparent | Layer IT services
+177.93.132.244:3128 | HTTP | BR | Anonymous | MAGAZINE LUIZA S/A
+103.157.200.126:3128 | HTTP | PK | Anonymous | Logitech Cable (Private) ..
+213.220.62.62:3128 | HTTP | NL | Anonymous | YSZ Trading Co. Limited
+85.198.229.194:80 | HTTP | PL | Transparent | Sileman Sp. z o.o.
+109.205.126.6:8080 | HTTP | LV | Transparent | Kronospan Riga SIA
+155.212.131.205:8080 | HTTP | RU | Elite | Beget LLC
+185.255.45.212:3128 | HTTP | IQ | Transparent | Valin Company for General..
+188.132.249.171:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.50.25.59:8080 | HTTP | ID | Transparent | PT. MERAH PUTIH TELEMATIK..
+103.155.198.73:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+146.196.108.206:80 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
+38.156.72.27:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.217.144.114:3128 | HTTP | ID | Transparent | PT. GUNA BAHAN INTI
+188.132.249.195:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+45.88.0.98:3128 | HTTP | PL | Anonymous | Layer IT services
+3.110.230.219:80 | HTTP | IN | Elite | Amazon Technologies Inc.
+147.45.166.46:3128 | HTTP | NL | Elite | Timeweb, LLP
+176.100.39.55:3128 | HTTP | DE | Elite | Florian Kolb
+134.236.29.228:8080 | HTTP | TH | Transparent | CAT-BB
+188.132.150.44:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+178.128.24.162:8080 | HTTP | SG | Elite | DigitalOcean, LLC
+103.180.126.235:8080 | HTTP | ID | Elite | PT Alam Media Data
+103.133.25.149:8080 | HTTP | ID | Transparent | PT PHATRIA INTI PERSADA
+203.175.103.97:8080 | HTTP | ID | Transparent | PT. Mitra Kita Brilian
+2.27.54.161:1080 | HTTP | NL | Elite | DpkgSoft International Li..
+103.252.89.130:8080 | HTTP | DE | Elite | Oliver Horscht is trading..
+54.253.167.61:80 | HTTP | AU | Elite | Amazon.com, Inc.
+164.92.205.88:3128 | HTTP | DE | Elite | DigitalOcean, LLC
+103.191.196.41:8080 | HTTP | ID | Transparent | PT Pangkalan Lintas Data
+103.155.199.208:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+180.191.231.47:8080 | HTTP | PH | Transparent | Globe Telecom
+103.151.227.130:8080 | HTTP | ID | Transparent | URBANACCESS
+138.68.20.38:3128 | HTTP | US | Transparent | DigitalOcean, LLC
+167.250.56.81:8080 | HTTP | BR | Transparent | Lucaroni Telecom Ltda ME
+89.43.132.19:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+20.164.75.153:8080 | HTTP | ZA | Elite | Microsoft Corporation
+103.193.145.42:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+103.155.64.182:8080 | HTTP | ID | Elite | PT Media Access Telematik..
+103.56.80.43:3128 | HTTP | ID | Elite | PT Jaringan Citra Mandiri
+113.160.132.26:8080 | HTTP | VN | Elite | VietNam Post and Telecom ..
+89.43.134.44:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+194.44.177.225:8080 | HTTP | UA | Transparent | LLC EKSINTECH
+103.179.252.74:3128 | HTTP | ID | Transparent | PT Pusaka Kreasi Mandiri
+103.180.126.170:8080 | HTTP | ID | Transparent | PT Alam Media Data
+163.223.172.29:1080 | HTTP | ID | Transparent | PT FAFI UIFI NETWORK
+149.86.140.245:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
+103.51.205.78:8080 | HTTP | ID | Transparent | Lintas Data Prima, PT
+94.158.219.111:3128 | HTTP | LV | Elite | SIA VEESP
+171.247.171.210:8080 | HTTP | VN | Elite | Viettel Corporation
+89.43.134.10:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+212.108.115.55:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+43.205.113.210:8080 | HTTP | IN | Elite | Amazon.com, Inc.
+103.46.186.137:8080 | HTTP | ID | Transparent | PT Air Lintas Komunikasi
+121.130.199.106:3128 | HTTP | KR | Elite | Korea Telecom
+103.10.231.189:8080 | HTTP | TH | Transparent | CATBB
+45.134.14.169:8080 | HTTP | DE | Transparent | First Server Limited
+103.238.232.98:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
+160.238.65.7:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+41.128.72.147:8080 | HTTP | EG | Transparent | LINKdotNET AS number
+89.43.132.226:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+160.250.134.143:3128 | HTTP | VN | Transparent | BSTECHCLOUD
+89.189.64.195:8080 | HTTP | YE | Transparent | AS30873 YemenNet
+103.127.111.77:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+129.226.81.110:7890 | HTTP | SG | Elite | Tencent Cloud Computing (..
+185.41.152.110:3128 | HTTP | FR | Transparent | global
+195.62.50.176:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.184.54.11:8080 | HTTP | ID | Transparent | PT Proxi Jaringan Nusanta..
+193.43.159.164:8080 | HTTP | SY | Transparent | Syrian Telecom
+202.58.77.195:8080 | HTTP | ID | Anonymous | PT Data Buana Nusantara
+38.156.72.49:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.174.122.217:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
+116.254.118.180:80 | HTTP | ID | Elite | PT Media Sarana Data
+157.66.138.101:1080 | HTTP | ID | Transparent | PT Neo Fiber Teknologi
+124.121.2.162:8080 | HTTP | TH | Transparent | TRUEBB
+161.132.45.73:8080 | HTTP | PE | Transparent | Red Cientifica Peruana
+149.86.140.244:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
+193.43.159.95:8080 | HTTP | SY | Transparent | Syrian Telecom
+128.90.136.209:3128 | HTTP | NL | Transparent | Powerhouse Management, In..
+193.43.140.101:8080 | HTTP | SY | Transparent | Syrian Telecom
+217.217.249.160:8080 | HTTP | IN | Elite | Contabo Asia Private Limi..
+184.82.173.146:8080 | HTTP | TH | Transparent | AIS-Fibre
+160.238.65.4:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+103.152.238.77:1080 | HTTP | ID | Transparent | APRIN
+102.164.252.150:8080 | HTTP | GQ | Transparent | Conexxia Guinea Equatoria..
+157.20.244.28:3128 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+43.155.86.199:8080 | HTTP | HK | Transparent | Shenzhen Tencent Computer..
+91.186.217.84:3128 | HTTP | SE | Transparent | NetCrafters OU
+103.9.78.2:3128 | HTTP | VN | Elite | VINAHOST
+103.19.78.204:1080 | HTTP | ID | Elite | PT Persada Data Multimedi..
+89.43.134.23:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+181.78.195.40:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+176.88.65.190:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+45.190.84.43:8080 | HTTP | VE | Transparent | TELECOM.CORPORATIVAS TELE..
+160.19.18.204:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+170.205.39.31:1080 | HTTP | JP | Elite | HostHatch
+139.28.49.103:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+149.86.140.212:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
+160.238.65.2:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+202.58.77.235:1080 | HTTP | ID | Elite | PT Data Buana Nusantara
+195.158.10.99:8080 | HTTP | UZ | Transparent | "Uzbektelekom" Joint Stoc..
+176.117.104.179:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+200.159.143.38:8080 | HTTP | BR | Transparent | Winfnet Telecom Wireless ..
+103.139.99.246:8080 | HTTP | ID | Transparent | Digital Network Setiawan
+131.222.210.80:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+154.18.255.102:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
+207.248.113.12:8080 | HTTP | MX | Transparent | Redes y Comunicaciones de..
+102.0.16.24:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
+135.125.247.165:3128 | HTTP | DE | Transparent | OVH SAS
+103.153.135.116:8080 | HTTP | ID | Transparent | WMINET
+150.230.249.50:1080 | HTTP | KR | Elite | Oracle Corporation
+172.236.140.167:3128 | HTTP | SG | Transparent | Akamai Technologies, Inc.
+34.241.123.181:3128 | HTTP | IE | Elite | Amazon Technologies Inc.
+157.10.90.47:8080 | HTTP | ID | Transparent | PNGWIFI
+194.124.36.132:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.93.93.207:8080 | HTTP | ID | Anonymous | MYRISE
+14.102.70.65:8080 | HTTP | IN | Transparent | World Phone Internet Serv..
+103.139.98.177:8080 | HTTP | ID | Transparent | Digital Network Setiawan
+171.100.254.137:8080 | HTTP | TH | Transparent | True Internet Corporation..
+103.152.238.197:1080 | HTTP | ID | Transparent | APRIN
+62.76.142.252:1080 | HTTP | RU | Elite | hosting-russia.ru
+147.45.152.7:3128 | HTTP | NL | Transparent | Timeweb, LLP
+109.195.74.237:3128 | HTTP | RU | Elite | CJSC "ER-Telecom Holding"..
+31.56.78.140:8080 | HTTP | ID | Anonymous | PT Perwira Media Solusi
+58.69.185.88:8080 | HTTP | PH | Transparent | Philippine Long Distance ..
+103.191.196.154:8080 | HTTP | ID | Elite | PT Pangkalan Lintas Data
+120.92.108.86:7890 | HTTP | CN | Elite | Beijing Kingsoft Cloud In..
+45.236.129.64:3128 | HTTP | CL | Transparent | ZAM LTDA.
+182.253.143.137:8080 | HTTP | ID | Transparent | Biznet Networks
+84.1.150.66:8080 | HTTP | HU | Transparent | Magyar Telekom
+172.208.25.199:3128 | HTTP | US | Transparent | Microsoft Corporation
+103.50.25.43:8080 | HTTP | ID | Transparent | PT. MERAH PUTIH TELEMATIK..
+103.193.145.3:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+157.15.66.120:8080 | HTTP | ID | Transparent | TRITAMA
+103.144.146.7:1080 | HTTP | ID | Transparent | Lexxa Data
+51.95.13.205:80 | HTTP | ES | Elite | Amazon.com, Inc.
+157.20.239.235:8080 | HTTP | ID | Transparent | PT Era Network Indonesia
+51.79.71.106:8080 | HTTP | CA | Transparent | OVH SAS
+125.25.230.134:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+38.43.158.7:8080 | HTTP | PE | Elite | Nextnet S.A.C
+105.159.148.119:5678 | HTTP | MA | Elite | Office National des Poste..
+103.155.64.221:8080 | HTTP | ID | Transparent | PT Media Access Telematik..
+223.16.170.103:3128 | HTTP | HK | Transparent | HGC Global Communications..
+101.255.107.130:8080 | HTTP | ID | Transparent | PT Remala Abadi
+103.68.215.36:8080 | HTTP | ID | Transparent | PT Media Grasi Internet
+103.220.23.113:8080 | HTTP | ID | Transparent | CV. LINTAS MEDIA
+122.248.45.54:8080 | HTTP | ID | Transparent | PT PC24 Cyber Indonesia
+173.212.245.136:8888 | HTTP | FR | Elite | Contabo GmbH
+13.212.110.200:80 | HTTP | SG | Elite | Amazon Technologies Inc.
+176.117.105.227:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+58.147.186.131:8080 | HTTP | ID | Transparent | PT. Transhybrid Communica..
+131.222.251.43:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+13.212.26.15:8080 | HTTP | SG | Elite | Amazon Technologies Inc.
+103.135.102.161:8080 | HTTP | HK | Elite | ASSN-AKRN
+103.139.99.222:8080 | HTTP | ID | Transparent | Digital Network Setiawan
+150.249.255.91:3128 | HTTP | JP | Anonymous | Sony Network Communicatio..
+103.181.255.49:8080 | HTTP | ID | Transparent | PT Giga Digital Nusantara
+103.71.22.182:3128 | HTTP | FI | Elite | I-servers LTD
+103.68.214.175:8080 | HTTP | ID | Transparent | PT Media Grasi Internet
+141.11.210.159:8888 | HTTP | US | Elite | Virtual Machine Solutions..
+193.43.159.15:8080 | HTTP | SY | Transparent | Syrian Telecom
+213.220.62.63:3128 | HTTP | NL | Transparent | YSZ Trading Co. Limited
+103.127.111.85:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+154.202.119.234:3128 | HTTP | US | Transparent | Fastmos Co Limited
+103.166.159.147:8080 | HTTP | ID | Transparent | PT Timor Lintas Nusantara
+160.238.65.3:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+185.132.178.178:1080 | HTTP | NL | Elite | WorldStream B.V.
+103.118.175.85:8080 | HTTP | ID | Anonymous | PT Perwira Media Solusi
+195.62.50.187:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.184.54.9:8080 | HTTP | ID | Transparent | PT Proxi Jaringan Nusanta..
+157.15.67.49:8080 | HTTP | ID | Transparent | TRITAMA
+163.223.78.163:8080 | HTTP | ID | Elite | PT Big Network Indonesia
+178.213.25.221:7890 | HTTP | RU | Elite | DagNet Ltd.
+101.255.32.42:8080 | HTTP | ID | Transparent | PT Remala Abadi
+110.76.145.119:8080 | HTTP | ID | Transparent | PT Pika Media Komunika
+103.163.80.62:8080 | HTTP | ID | Elite | PT Data Arta Sedaya
+103.158.62.139:8080 | HTTP | BD | Transparent | SEARCH IT
+203.150.113.239:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.97.140.17:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+36.92.51.132:8080 | HTTP | ID | Transparent | PT. Telekomunikasi Indone..
+146.196.108.81:8080 | HTTP | ID | Transparent | PT Maxindo Mitra Solusi
+212.108.115.92:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.156.233.57:8080 | HTTP | ID | Transparent | MULTIMEDIALINKTECH
+95.214.123.54:8080 | HTTP | HU | Transparent | Deltakon Kft.
+150.230.211.74:8080 | HTTP | JP | Transparent | Oracle Corporation
+103.162.54.182:8080 | HTTP | ID | Transparent | PT Pratama Asia Globalind..
+15.152.75.215:80 | HTTP | JP | Elite | Amazon Technologies Inc.
+131.222.252.72:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+109.224.242.54:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+91.82.115.159:8080 | HTTP | HU | Transparent | INVITEL Zrt.
+217.77.102.18:3128 | HTTP | RU | Elite | "Region Svyaz Konsalt" LL..
+125.26.27.196:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+49.48.83.198:8080 | HTTP | TH | Transparent | Triple T Broadband Public..
+212.108.115.106:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+43.167.237.94:3128 | HTTP | JP | Transparent | Shenzhen Tencent Computer..
+212.252.73.24:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+103.93.93.239:1080 | HTTP | ID | Anonymous | MYRISE
+103.244.107.153:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
+185.41.152.110:3128 | HTTP | FR | Elite | global
+192.232.48.20:8080 | HTTP | ID | Transparent | PT Axindo Infinitas Netwo..
+94.72.109.196:3128 | HTTP | GB | Transparent | Contabo GmbH
+113.11.179.143:8080 | HTTP | ID | Transparent | Biznet Networks
+103.174.122.203:8080 | HTTP | ID | Anonymous | PT Jaya Sejahtra Nugraha
+101.255.32.43:8080 | HTTP | ID | Transparent | PT Remala Abadi
+139.28.49.183:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+38.156.72.29:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+185.117.152.45:3128 | HTTP | RU | Elite | I-servers LTD
+103.157.79.74:8080 | HTTP | ID | Transparent | EASTMEDIA
+45.88.0.115:3128 | HTTP | PL | Anonymous | Layer IT services
+103.238.232.126:8080 | HTTP | ID | Transparent | PT Digital Netcom Solutio..
+103.155.199.15:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+46.101.126.84:8888 | HTTP | DE | Elite | DigitalOcean, LLC
+103.124.137.78:8080 | HTTP | ID | Transparent | Global Media Data Prima
+65.109.213.99:1080 | HTTP | FI | Elite | Hetzner Online GmbH
+174.114.24.95:3128 | HTTP | CA | Elite | Rogers Communications Can..
+103.46.8.102:8080 | HTTP | ID | Transparent | PT JARINGANKU SARANA NUSA..
+89.43.134.88:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.172.120.180:8080 | HTTP | ID | Transparent | PT Digital Akses Nusantar..
+5.104.87.221:8888 | HTTP | JP | Anonymous | Contabo Asia Private Limi..
+45.88.0.113:3128 | HTTP | PL | Transparent | Layer IT services
+103.180.126.165:8080 | HTTP | ID | Transparent | PT Alam Media Data
+103.193.145.30:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+89.43.135.9:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+131.222.251.97:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+43.153.149.53:1080 | HTTP | JP | Elite | Shenzhen Tencent Computer..
+103.167.170.125:8080 | HTTP | ID | Transparent | PT Rajeg Media Telekomuni..
+175.111.96.154:3128 | HTTP | ID | Anonymous | PT Wifipedia Sinergi Tele..
+103.166.9.194:8888 | HTTP | ID | Anonymous | PT Akses Bersama Sedaya
+216.180.127.45:1080 | HTTP | US | Elite | Host4nerd LLC
+82.146.45.118:3128 | HTTP | RU | Transparent | JSC IOT
+154.27.196.82:8080 | HTTP | MX | Transparent | Cogent Communications
+103.120.76.54:8080 | HTTP | ID | Transparent | PT Haci Telekomunikasi In..
+116.102.38.65:8080 | HTTP | VN | Elite | Viettel Group
+176.88.166.202:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+113.11.179.64:8080 | HTTP | ID | Transparent | Biznet Networks
+221.156.27.138:3128 | HTTP | KR | Transparent | Korea Telecom
+41.218.225.250:3128 | HTTP | GH | Transparent | Vodafone Ghana
+103.39.49.204:3128 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
+103.156.75.161:8080 | HTTP | ID | Transparent | PT Trika Global Media
+103.193.145.29:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+103.125.18.25:8080 | HTTP | ID | Transparent | JAVAMEDIA
+103.173.139.221:8080 | HTTP | ID | Transparent | PT Serayu Multi Connectio..
+161.132.45.74:8080 | HTTP | PE | Transparent | Red Cientifica Peruana
+91.233.223.147:3128 | HTTP | RU | Transparent | Radist LTD
+195.62.50.6:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+77.110.116.224:3128 | HTTP | AT | Transparent | Aeza International LTD
+103.127.111.21:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+102.0.17.48:8080 | HTTP | KE | Transparent | Airtel KE Mobile & Fixed ..
+102.164.220.247:8080 | HTTP | ZA | Transparent | Jenny Internet cc
+84.252.70.94:8080 | HTTP | RU | Transparent | Voronezh Telecom LLC
+103.67.80.153:8080 | HTTP | ID | Transparent | PT Komunikasi Profesional..
+86.109.3.28:80 | HTTP | US | Transparent | Equinix (EMEA) Acquisitio..
+112.78.155.181:3128 | HTTP | ID | Transparent | BIZNET
+103.132.52.20:8080 | HTTP | ID | Anonymous | PT Adeaksa Indo Jayatama
+203.2.151.14:8080 | HTTP | ID | Transparent | PT BARAYA BARENG SADULUR
+103.193.145.26:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+113.192.48.37:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+185.138.116.150:8080 | HTTP | FR | Elite | Artic Solutions SARL
+103.23.98.65:8080 | HTTP | ID | Transparent | PT Sakti Media Telekomuni..
+210.87.92.54:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+112.78.181.91:3128 | HTTP | ID | Transparent | BIZNET
+103.196.40.33:8080 | HTTP | ID | Anonymous | PT Sarana Working Akses I..
+72.56.84.21:1080 | HTTP | NL | Elite | Timeweb, LLP
+89.43.132.215:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+95.181.83.3:3128 | HTTP | RU | Transparent | Goodline.info
+185.246.118.204:3128 | HTTP | RU | Elite | Alex Group LLC
+193.43.140.253:8080 | HTTP | SY | Transparent | Syrian Telecom
+99.79.58.74:80 | HTTP | CA | Elite | Amazon.com, Inc.
+188.132.249.232:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.147.118.67:8080 | HTTP | ID | Anonymous | PT.Bestcamp Prima Data
+164.138.205.68:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+103.144.146.42:8080 | HTTP | ID | Transparent | Lexxa Data
+38.180.79.182:1080 | HTTP | BR | Elite | M247 Europe SRL
+170.106.137.160:3128 | HTTP | US | Transparent | Tencent Cloud Computing (..
+103.153.149.138:8080 | HTTP | ID | Transparent | JARINGANKU
+160.19.18.42:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+35.225.22.61:80 | HTTP | US | Elite | Google LLC
+103.155.198.163:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+5.255.123.43:1080 | HTTP | NL | Elite | The Infrastructure Group ..
+40.192.121.249:80 | HTTP | IN | Elite | Amazon.com, Inc.
+91.107.124.215:3128 | HTTP | RU | Elite | JSC IOT
+193.43.159.172:8080 | HTTP | SY | Transparent | Syrian Telecom
+95.214.123.70:8080 | HTTP | HU | Transparent | Deltakon Kft.
+195.62.50.40:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.140.25.205:8080 | HTTP | BD | Transparent | Ali Akber
+103.157.117.116:8080 | HTTP | ID | Anonymous | PT Cloud Teknologi Nusant..
+161.132.45.72:8080 | HTTP | PE | Transparent | Red Cientifica Peruana
+202.74.77.12:8080 | HTTP | ID | Anonymous | PT Giga Patra Multimedia
+103.18.78.130:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
+103.125.119.50:8080 | HTTP | ID | Transparent | PT Baraya Telematika Nusa..
+176.88.166.222:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+178.214.80.44:8080 | HTTP | PS | Elite | Gemzo information technol..
+103.81.194.125:8080 | HTTP | ID | Anonymous | PT Rtiga Global Media
+103.148.184.82:8080 | HTTP | TL | Transparent | METROLINK, LDA.
+185.145.124.173:8080 | HTTP | RU | Transparent | Sky Engineering LLC
+113.11.2.213:8080 | HTTP | BD | Transparent | BDCOM Online Limited
+209.126.84.189:3128 | HTTP | US | Elite | Contabo Inc.
+103.160.40.254:8080 | HTTP | ID | Anonymous | PT Wistel Teknologi Solus..
+124.121.2.186:8080 | HTTP | TH | Transparent | TRUEBB
+103.176.97.108:3128 | HTTP | ID | Transparent | PT Global Sarana Elektron..
+160.19.19.9:8080 | HTTP | ID | Transparent | PT Indo Telemedia Solusi
+182.53.21.1:8080 | HTTP | TH | Transparent | TOT Public Company Limite..
+5.129.192.17:1080 | HTTP | RU | Elite | Adman LLC
+45.88.0.98:3128 | HTTP | PL | Transparent | Layer IT services
+89.189.64.20:8080 | HTTP | YE | Transparent | AS30873 YemenNet
+103.231.75.209:3128 | HTTP | TR | Elite | WorkTitans B.V.
+121.130.199.76:3128 | HTTP | KR | Elite | Korea Telecom
+188.132.150.46:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.144.102.245:8080 | HTTP | ID | Transparent | PANDAWANET
+157.230.38.173:3128 | HTTP | SG | Transparent | DigitalOcean, LLC
+159.223.225.118:8888 | HTTP | NL | Elite | DigitalOcean, LLC
+103.39.49.98:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
+149.62.191.202:3128 | HTTP | IT | Transparent | HOST-VDC
+18.142.120.165:80 | HTTP | SG | Elite | Amazon Technologies Inc.
+188.132.249.202:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+91.108.243.203:3128 | HTTP | DE | Elite | DePowered Limited
+103.97.140.96:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+41.216.186.47:8080 | HTTP | ID | Elite | FASTHOSTING
+181.78.195.44:8080 | HTTP | EC | Transparent | Ufinet Panama S.A.
+89.43.134.93:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+195.62.50.59:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+223.205.91.218:8080 | HTTP | TH | Anonymous | Triple T Broadband Public..
+104.247.51.76:3128 | HTTP | US | Transparent | Lightower Fiber Networks ..
+103.139.98.50:8080 | HTTP | ID | Transparent | Digital Network Setiawan
+121.135.144.234:8080 | HTTP | KR | Elite | Korea Telecom
+176.117.104.190:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+45.88.0.116:3128 | HTTP | PL | Transparent | Layer IT services
+103.193.145.46:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+45.88.0.117:3128 | HTTP | PL | Anonymous | Layer IT services
+13.212.110.200:3128 | HTTP | SG | Elite | Amazon Technologies Inc.
+176.117.104.163:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+44.192.54.217:3128 | HTTP | US | Transparent | Amazon.com
+45.130.146.154:1080 | HTTP | RU | Elite | LLC Baxet
+185.241.5.57:3128 | HTTP | IL | Transparent | O.M.C. COMPUTERS & COMMUN..
+85.239.59.252:7890 | HTTP | RU | Elite | JSC "TIMEWEB"
+103.39.51.207:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
+89.43.132.15:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+110.76.147.29:1080 | HTTP | ID | Transparent | PT Pika Media Komunika
+94.131.83.119:3128 | HTTP | KZ | Transparent | "Cloud Services Kazakhsta..
+149.86.144.246:8080 | HTTP | TR | Transparent | Gibirnet Iletisim Hizmetl..
+45.153.231.229:8080 | HTTP | RU | Elite | UFO Hosting LLC
+103.127.111.249:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+119.47.93.84:8080 | HTTP | ID | Transparent | FASTLINKONEKSI
+112.163.160.93:3128 | HTTP | KR | Elite | Korea Telecom
+103.127.111.5:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+180.191.231.122:8080 | HTTP | PH | Transparent | Globe Telecom
+103.172.121.28:8080 | HTTP | ID | Transparent | PT Digital Akses Nusantar..
+160.191.180.245:3128 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+139.162.153.201:3128 | HTTP | DE | Elite | Akamai Technologies, Inc.
+180.191.233.125:8080 | HTTP | PH | Transparent | Globe Telecom
+103.76.104.186:8080 | HTTP | ID | Transparent | PT Citra Prima Media
+103.163.103.208:8080 | HTTP | ID | Transparent | PT Mamura Inter Media
+209.38.154.7:1080 | HTTP | US | Elite | DigitalOcean, LLC
+103.188.173.101:1080 | HTTP | ID | Elite | PT Satria Digital Media
+160.238.65.4:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+164.138.205.241:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+221.156.27.160:3128 | HTTP | KR | Transparent | Korea Telecom
+38.180.192.119:3128 | HTTP | US | Elite | HIVELOCITY, Inc.
+103.191.196.40:8080 | HTTP | ID | Transparent | PT Pangkalan Lintas Data
+18.188.53.175:80 | HTTP | US | Elite | Amazon.com, Inc.
+45.88.0.111:3128 | HTTP | PL | Transparent | Layer IT services
+110.39.183.34:8080 | HTTP | PK | Transparent | Wateen Telecom Limited
+113.255.59.226:8080 | HTTP | HK | Elite | HGC Global Communications..
+185.227.137.122:8080 | HTTP | TR | Transparent | Turunc Smart Bilgisayar T..
+61.91.162.126:8080 | HTTP | TH | Transparent | True Internet Corporation..
+89.43.132.93:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+81.30.156.115:8080 | HTTP | DE | Transparent | WIIT AG
+103.170.196.74:8080 | HTTP | ID | Transparent | SOLUSINET
+52.221.190.128:1080 | HTTP | SG | Elite | Amazon.com, Inc.
+210.87.74.207:8080 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+5.181.178.24:8080 | HTTP | JP | Anonymous | Lain.sh
+103.193.144.16:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+94.72.109.214:8888 | HTTP | GB | Transparent | Contabo GmbH
+131.222.247.238:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+131.222.247.51:8080 | HTTP | TR | Transparent | High Speed For Internet S..
+103.39.49.98:8080 | HTTP | ID | Anonymous | PT. Mega Mentari Mandiri
+181.119.84.134:8080 | HTTP | CO | Transparent | IFX Networks Argentina S...
+45.119.85.216:3128 | HTTP | VN | Transparent | Long Van System Solution ..
+104.248.211.46:7890 | HTTP | US | Elite | DigitalOcean, LLC
+103.68.214.164:8080 | HTTP | ID | Transparent | PT Media Grasi Internet
+185.200.38.115:8080 | HTTP | TR | Transparent | High Speed Telekomunikasy..
+103.122.65.242:8080 | HTTP | ID | Transparent | PT. Jinom Network Indones..
+203.150.128.216:8080 | HTTP | TH | Transparent | Internet Thailand Company..
+103.125.174.227:8080 | HTTP | ID | Transparent | PT Trinity Teknologi Nusa..
+94.183.189.12:1080 | HTTP | FI | Elite | CGI GLOBAL LIMITED
+54.67.110.244:80 | HTTP | US | Elite | Amazon.com, Inc.
+3.222.207.104:3128 | HTTP | US | Transparent | Amazon Technologies Inc.
+103.171.241.14:8080 | HTTP | ID | Transparent | PT Abs Multimedia Indones..
+103.247.14.38:8080 | HTTP | ID | Transparent | TERABIT
+103.124.137.205:8080 | HTTP | ID | Transparent | Global Media Data Prima
+212.108.115.114:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+48.218.128.191:3128 | HTTP | JP | Transparent | Microsoft Corporation
+157.10.97.185:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+200.3.197.101:8080 | HTTP | BR | Transparent | Inacio Miguel Scherer
+160.238.65.5:3128 | HTTP | NL | Anonymous | GZ REMITTANCE (CHINA) IND..
+138.124.99.216:8888 | HTTP | FI | Elite | Aeza International LTD
+45.116.14.87:8080 | HTTP | JP | Elite | xTom Limited
+154.58.138.131:8080 | HTTP | ID | Transparent | MEGADATA-ISP
+103.171.255.60:8080 | HTTP | ID | Transparent | ZKI
+103.193.145.32:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+188.166.179.50:3128 | HTTP | SG | Elite | DigitalOcean, LLC
+56.155.44.218:80 | HTTP | JP | Elite | Amazon.com, Inc.
+119.82.242.6:8080 | HTTP | ID | Transparent | Indonesia Network Informa..
+103.132.52.229:8080 | HTTP | ID | Anonymous | PT Adeaksa Indo Jayatama
+77.232.142.164:3128 | HTTP | RU | Transparent | Aeza International LTD
+103.39.51.178:8080 | HTTP | ID | Transparent | PT. Mega Mentari Mandiri
+103.127.111.1:8080 | HTTP | IN | Transparent | Nandkishore Infrastructur..
+212.252.73.30:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+157.15.41.198:8080 | HTTP | ID | Transparent | TRISARI
+103.108.63.91:8080 | HTTP | BD | Transparent | Mostafizur Rahman Patwary
+218.153.163.186:8080 | HTTP | KR | Elite | Korea Telecom
+195.175.31.222:3128 | HTTP | TR | Elite | Turk Telekomunikasyon A.S
+103.156.233.137:8080 | HTTP | ID | Transparent | MULTIMEDIALINKTECH
+160.238.65.2:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+202.57.25.217:8080 | HTTP | ID | Transparent | announced of WINET
+103.158.62.137:8080 | HTTP | BD | Transparent | SEARCH IT
+78.11.96.22:8888 | HTTP | PL | Transparent | Netia SA
+103.193.145.201:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+139.135.79.218:8080 | HTTP | PH | Transparent | Dito Telecommunity Corp.
+103.76.107.11:8080 | HTTP | ID | Transparent | PT Geka Solusi Utama
+36.66.195.148:8080 | HTTP | ID | Transparent | PT. Telekomunikasi Indone..
+147.45.133.133:3128 | HTTP | NL | Transparent | Timeweb, LLP
+159.223.213.91:8888 | HTTP | NL | Elite | DigitalOcean, LLC
+124.121.2.223:8080 | HTTP | TH | Transparent | TRUEBB
+171.236.200.73:8080 | HTTP | VN | Transparent | Viettel Corporation
+149.51.42.10:8080 | HTTP | US | Elite | Cogent Communications
+212.108.115.78:8080 | HTTP | SY | Transparent | High Speed For Internet S..
+14.102.70.89:8080 | HTTP | IN | Transparent | World Phone Internet Serv..
+185.230.190.195:3128 | HTTP | FI | Elite | Livi Hosting LTD
+103.214.251.53:8080 | HTTP | ID | Transparent | PT Bittara Interkoneksi N..
+64.225.64.39:3128 | HTTP | NL | Elite | DigitalOcean, LLC
+157.10.97.12:8080 | HTTP | ID | Transparent | PT Lintas Jaringan Nusant..
+103.144.18.91:8080 | HTTP | ID | Transparent | PT Gasatek Bintang Nusant..
+103.97.140.71:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+120.92.108.97:7890 | HTTP | CN | Elite | Beijing Kingsoft Cloud In..
+80.250.165.242:3128 | HTTP | RU | Transparent | LLC Stroysvyazkonsaling
+103.159.96.96:8080 | HTTP | ID | Transparent | PT Jinde Grup Indonesia
+103.144.146.8:1080 | HTTP | ID | Transparent | Lexxa Data
+103.66.47.182:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
+116.203.112.97:3128 | HTTP | DE | Transparent | Hetzner Online GmbH
+103.101.216.66:8080 | HTTP | ID | Transparent | PT Duta Trans Nusantara N..
+154.18.255.131:8080 | HTTP | ID | Transparent | PT Media Solusi Sukses
+117.54.238.66:8080 | HTTP | ID | Transparent | PT IndoInternet
+103.13.192.77:8080 | HTTP | BD | Transparent | Md Al Amin
+94.131.83.119:3128 | HTTP | UN | Transparent | Lookup Error
+168.222.254.88:3128 | HTTP | DE | Elite | Intezio Worldwide Limited
+49.229.100.235:8080 | HTTP | TH | Transparent | Advanced Wireless Network..
+161.248.176.2:8080 | HTTP | IN | Transparent | SNA INTERNET PRIVATE LIMI..
+103.66.47.66:8080 | HTTP | ID | Transparent | PT Iconmedia Lintas Nusan..
+38.188.63.111:8080 | HTTP | ID | Transparent | PT Nesta Indo Media
+160.191.180.121:80 | HTTP | ID | Transparent | PT.Global Media Data Prim..
+103.139.98.179:8080 | HTTP | ID | Transparent | Digital Network Setiawan
+2.57.218.130:8080 | HTTP | GE | Transparent | Multisoft LLC
+103.31.235.245:8080 | HTTP | ID | Transparent | PT Usaha Adi Sanggoro
+160.238.65.9:3128 | HTTP | NL | Transparent | GZ REMITTANCE (CHINA) IND..
+103.190.170.111:8080 | HTTP | ID | Transparent | PT Ring Media Nusantara
+103.50.25.40:8080 | HTTP | ID | Transparent | PT. MERAH PUTIH TELEMATIK..
+103.97.140.142:8080 | HTTP | ID | Transparent | PT Jembatan Data Pangrang..
+103.175.237.234:3128 | HTTP | ID | Transparent | PT Marva Global Telekomun..
+51.250.25.180:1080 | HTTP | RU | Elite | Yandex.Cloud LLC
+103.139.99.238:8080 | HTTP | ID | Transparent | Digital Network Setiawan
+176.124.220.172:3128 | HTTP | FI | Transparent | xorek.cloud International..
+124.121.2.182:8080 | HTTP | TH | Transparent | TRUEBB
+103.227.243.73:8080 | HTTP | ID | Transparent | NIDS
+176.88.166.196:8080 | HTTP | TR | Transparent | Superonline Iletisim Hizm..
+193.148.250.155:8080 | HTTP | CH | Transparent | iFog GmbH
+103.176.97.228:8080 | HTTP | ID | Transparent | PT Global Sarana Elektron..
+194.87.26.83:3128 | HTTP | NL | Elite | Timeweb, LLP
+195.19.217.200:3128 | HTTP | RU | Transparent | MTS PJSC
+203.175.102.210:8080 | HTTP | ID | Transparent | PT. Mitra Kita Brilian
+103.162.54.178:8080 | HTTP | ID | Anonymous | PT Pratama Asia Globalind..
+147.45.167.84:3128 | HTTP | NL | Elite | Timeweb, LLP
+103.244.107.3:8080 | HTTP | ID | Transparent | PT Sahabat Fiber Indonesi..
